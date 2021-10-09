@@ -1,0 +1,25 @@
+meta:
+  title: Public events
+  tz: Europe/Helsinki
+
+events:
+  - summary: Test Event
+    #id: test1
+    description: |
+      Line1
+      Line2
+      https://scicomp.aalto.fi
+    location: https://meet.jit.si/example
+    begin: 2021-09-30 12:00:00
+    duration: { minutes: 60 }
+
+  - summary: Test Event
+    #id: test2
+    description: |
+      Line1
+      Line2
+      https://scicomp.aalto.fi
+    location: https://meet.jit.si/example
+    begin: 2021-10-31 12:00:00
+    duration: { minutes: 60 }
+
