@@ -12,7 +12,7 @@ build: $(OUT)
 	done
 	@echo "</ul>" >> out/index.html
 	@echo "<br>" >> out/index.html
-	@echo "To subscribe to a calendar: (google calendar): Add to other calendars → From URL (outlook web) Add Calendar → Subscribe from web.<br>" >> out/index.html
+	@echo "To subscribe to a calendar:<br>" >> out/index.html
 	@echo "<ul>" >> out/index.html
 	@echo   "<li>Google calendar: Add to other calendars → From URL.</li>" >> out/index.html
 	@echo "<li>Outlook web: Add Calendar → Subscribe from web.</li>" >> out/index.html
