@@ -1,0 +1,21 @@
+meta:
+  title: Public events
+  tz: Europe/Stockholm
+
+
+events:
+  - summary: Getting started with scientific computing/HPC
+    location: https://twitch.tv/coderefinery
+    begin: 2022-02-02 12:00:00
+    duration: { hours: 4 }
+    repeat:
+      interval: {days: 1}
+      until: 2022-02-04 13:00:00
+    description: |
+      This event introduces you to scientific computing and using
+      computer clusters.  The first day is suitable for everyone, days
+      2-3 are suitable for those who want to learn to use a computer
+      cluster.
+
+      day 1: https://scicomp.aalto.fi/training/scip/getting-started-with-scientific-computing/
+      day 2: https://scicomp.aalto.fi/training/scip/winter-kickstart/
