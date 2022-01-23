@@ -14,7 +14,7 @@ build: $(OUT)
 	@echo "<br>" >> out/index.html
 	@echo "To subscribe to a calendar:<br>" >> out/index.html
 	@echo "<ul>" >> out/index.html
-	@echo   "<li>Google calendar: Add to other calendars → From URL.</li>" >> out/index.html
+	@echo   "<li>Google calendar: Other calendars (left sidebar) → \"+\" to add new → From URL.</li>" >> out/index.html
 	@echo "<li>Outlook web: Add Calendar → Subscribe from web.</li>" >> out/index.html
 	@echo   "</ul>" >> out/index.html
 	@echo -n "<br>Last update: $$(date) (git revision $(shell git rev-parse --short HEAD))" >> out/index.html
