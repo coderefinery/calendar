@@ -7,6 +7,7 @@ build: $(OUT)
 	@echo "<ul>" >> out/index.html
 	files="$(shell cd out ; ls *.ics)" ; \
 	for file in $${files}; do \
+	    if test "$${file}" = "example.ics" -a -n "$(GITHUB_REPOSITORY)" -a "$(GITHUB_REPOSITORY)" != "coderefinery/git-calendar" ; then continue ; fi ; \
 	    echo $${file} ; \
 	    echo "<li><a href=\"$$file\">$$file</a></br></li>" >> out/index.html ; \
 	done
