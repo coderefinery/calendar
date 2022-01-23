@@ -15,12 +15,20 @@ In short,
   submodule).
 - They get built to `out/*.ics` via `make`
 - An index `out/index.html` gets build via `make`
-- The Github workflow file pushes to the `gh-pages` branch.  Note: you
+- The Github Actions workflow file pushes to the `gh-pages` branch.  Note: you
   have to go to settings and toggle pages off and on again the first
-  time to make it live.
+  time to make it live, after that Github Actions will keep it up to
+  date.
 
 For now, see `calendars/example.yaml` for an example.  This
 documentation should be improved.
+
+When setting this up, do not fork the upstream repository, because
+then pull requests will end up here.  However, you might not want to
+use the "template repository" feature, since then histories will
+become disconnected, and you can't pull updates send PRs back to us.
+So, manually make a new repository, add this as a remote, pull, then
+push to your new repository as the upstream.
 
 
 
