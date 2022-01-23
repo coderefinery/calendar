@@ -26,7 +26,7 @@ out/%.ics: calendars/%.yaml
 
 
 clean:
-	rm -r out
+	rm -r out || true
 
 install:
 	pip install -r yaml2ics/requirements.txt
