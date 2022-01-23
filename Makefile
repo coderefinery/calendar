@@ -17,8 +17,7 @@ build: $(OUT)
 	@echo   "<li>Google calendar: Add to other calendars → From URL.</li>" >> out/index.html
 	@echo "<li>Outlook web: Add Calendar → Subscribe from web.</li>" >> out/index.html
 	@echo   "</ul>" >> out/index.html
-	@echo -n "<br>Last update: git revision $(shell git rev-parse --short HEAD), built at " >> out/index.html
-	@date >> out/index.html
+	@echo -n "<br>Last update: $$(date) (git revision $(shell git rev-parse --short HEAD))" >> out/index.html
 
 out/%.ics: calendars/%.yaml
 	mkdir -p out
