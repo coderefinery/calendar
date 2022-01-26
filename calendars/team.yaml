@@ -1,0 +1,20 @@
+meta:
+  name: Teaching events
+  tz: Europe/Stockholm
+
+events:
+  # Community calls
+  - &ccall
+    summary: Community call
+    location: TODO
+    begin: 2022-01-31 14:00:00
+    duration: { hours: 1 }
+    description: |
+      CodeRefinery community meeting, anyone may attend!
+
+  - <<: *ccall
+    begin: 2022-02-28 14:00:00
+  - <<: *ccall
+    begin: 2022-03-28 14:00:00
+
+
