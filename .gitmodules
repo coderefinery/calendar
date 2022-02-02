@@ -1,0 +1,4 @@
+[submodule "git-calendar"]
+	path = git-calendar
+	url = https://github.com/coderefinery/git-calendar.git
+	branch = main
