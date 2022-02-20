@@ -1,6 +1,5 @@
-meta:
-  title: Public events
-  tz: Europe/Helsinki
+name: Public events
+timezone: Europe/Helsinki
 
 events:
   - summary: Test event
