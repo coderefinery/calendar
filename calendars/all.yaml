@@ -1,0 +1,6 @@
+meta:
+  include:
+    - team.yaml
+    - teaching.yaml
+
+events: [ ]
