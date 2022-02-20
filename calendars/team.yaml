@@ -1,6 +1,6 @@
-meta:
-  name: Teaching events
-  tz: Europe/Stockholm
+name: Team events
+description: internal but open to public who wants to contribute
+timezone: Europe/Stockholm
 
 events:
   # Community calls
