@@ -8,11 +8,13 @@ events:
   # Team meetings
   - &team-meeting
     summary: CodeRefinery team meeting
-    location: TODO
+    location: https://hackmd.io/@coderefinery/team-meeting
     begin: 2022-02-21 14:00:00
     duration: { minutes: 30 }
     description: |
       CodeRefinery team meeting
+
+      Agenda and connection details: https://hackmd.io/@coderefinery/team-meeting
     repeat:
       interval: {weeks: 1}
       until: 2022-12-31
