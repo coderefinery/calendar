@@ -19,3 +19,18 @@ events:
 
       day 1: https://scicomp.aalto.fi/training/scip/getting-started-with-scientific-computing/
       day 2: https://scicomp.aalto.fi/training/scip/winter-kickstart/
+
+  # CR March 2022 workshop (two segments since it is split over a week)
+  - &cr-march-2022
+    summary: CodeRefinery workshop, March 2022
+    location: https://coderefinery.github.io/2022-03-22-workshop/
+    begin: 2022-03-22 08:50:00
+    duration: {minutes: 40, hours: 3}
+    repeat:
+      interval: {days: 1}
+      until: 2022-03-24 8:50:00
+  - <<: *cr-march-2022
+    begin: 2022-03-29 08:50:00
+    repeat:
+      interval: {days: 1}
+      until: 2022-03-31 8:50:00
