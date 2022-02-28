@@ -1,7 +1,8 @@
 name: Generate calendar
-on:
-  push:
-    branches: [ main ]
+on: [push, pull_request]
+env:
+  DEFAULT_BRANCH: refs/heads/main
+
 jobs:
   calendar:
     runs-on: ubuntu-latest
