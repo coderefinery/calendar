@@ -13,15 +13,19 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python-version }}
+      - name: Info
+        run: |
+          echo ${{ github.ref }}
       - name: Install dependencies
         run: |
           git submodule status --recursive
           make install
       - name: build
         run: |
-          make build
+          make build BUILDARGS=--edit-link=https://github.com/$GITHUB_REPOSITORY
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.event_name == 'push' && github.ref == env.DEFAULT_BRANCH }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out/
