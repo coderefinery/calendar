@@ -19,11 +19,10 @@ jobs:
           echo ${{ github.ref }}
       - name: Install dependencies
         run: |
-          git submodule status --recursive
-          make install
+          pip install -r requirements.txt
       - name: build
         run: |
-          make build BUILDARGS=--edit-link=https://github.com/$GITHUB_REPOSITORY
+          ./build.sh --edit-link=https://github.com/$GITHUB_REPOSITORY
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' && github.ref == env.DEFAULT_BRANCH }}
