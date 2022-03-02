@@ -1,1 +1,2 @@
--r git-calendar/requirements.txt
+https://github.com/coderefinery/git-calendar/archive/main.zip
+https://github.com/ics-py/ics-py/archive/refs/heads/main.zip
