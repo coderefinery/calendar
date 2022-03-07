@@ -1,4 +1,6 @@
 name: All events, teaching and internal
+description: |
+  All events in all other calendars
 include:
   - team.yaml
   - workshops.yaml

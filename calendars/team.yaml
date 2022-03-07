@@ -1,5 +1,8 @@
 name: Team events
-description: internal but open to public who wants to contribute
+description: |
+  Internal but open to public who wants to contribute.  For people who
+  are into the management details.  One meeting per week (includes all
+  community events)
 timezone: Europe/Stockholm
 include:
   - community.yaml
