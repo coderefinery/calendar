@@ -1,6 +1,6 @@
 name: All events, teaching and internal
 include:
   - team.yaml
-  - teaching.yaml
+  - workshops.yaml
 
 events: [ ]
