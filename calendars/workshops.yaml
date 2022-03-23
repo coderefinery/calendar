@@ -29,9 +29,9 @@ events:
     duration: {minutes: 40, hours: 3}
     repeat:
       interval: {days: 1}
-      until: 2022-03-24 8:50:00
+      until: 2022-03-24 12:30:00
   - <<: *cr-march-2022
-    begin: 2022-03-29 12:30:00
+    begin: 2022-03-29 8:50:00
     repeat:
       interval: {days: 1}
       until: 2022-03-31 09:00:00
