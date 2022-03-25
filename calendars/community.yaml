@@ -13,35 +13,29 @@ events:
     begin: 2022-01-31 14:00:00
     duration: { hours: 1 }
     description: |
-      CodeRefinery community meeting, anyone may attend!
+      CodeRefinery community meeting, everyone is most welcome!
 
       Agenda/connection details: https://hackmd.io/@coderefinery/community-call
 
   - <<: *ccall
     begin: 2022-02-28 14:00:00
   - <<: *ccall
-    begin: 2022-03-28 14:00:00
+    begin: 2022-04-04 14:00:00
   - <<: *ccall
-    begin: 2022-04-25 14:00:00
+    begin: 2022-05-02 14:00:00
   - <<: *ccall
-    begin: 2022-05-23 14:00:00
+    begin: 2022-06-06 14:00:00  # SE national day
   - <<: *ccall
-    begin: 2022-05-23 14:00:00
+    begin: 2022-07-04 14:00:00  # after midsummer, vacation for many in the Nordics
   - <<: *ccall
-    begin: 2022-06-20 14:00:00  # 3rd monday (before FI-midsummer)
+    begin: 2022-08-01 14:00:00
   - <<: *ccall
-    begin: 2022-07-25 14:00:00
+    begin: 2022-09-05 14:00:00
   - <<: *ccall
-    begin: 2022-07-25 14:00:00
+    begin: 2022-10-03 14:00:00
   - <<: *ccall
-    begin: 2022-08-22 14:00:00
+    begin: 2022-11-07 14:00:00
   - <<: *ccall
-    begin: 2022-09-26 14:00:00
-  - <<: *ccall
-    begin: 2022-10-24 14:00:00
-  - <<: *ccall
-    begin: 2022-11-28 14:00:00
-  - <<: *ccall
-    begin: 2022-12-19 14:00:00  # 3rd monday
+    begin: 2022-12-05 14:00:00
 
 
