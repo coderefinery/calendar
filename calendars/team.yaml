@@ -1,8 +1,7 @@
-name: Team events
+name: Team meetings and events
 description: |
-  Internal but open to public who wants to contribute.  For people who
-  are into the management details.  One meeting per week (includes all
-  community events)
+  Internal, people who actively contribute.  About one meeting per
+  week (this calendar includes the community calls)
 timezone: Europe/Stockholm
 include:
   - community.yaml
