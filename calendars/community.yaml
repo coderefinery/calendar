@@ -39,3 +39,28 @@ events:
     begin: 2022-12-05 14:00:00
 
 
+  - summary: Community teaching workshop
+    description: |
+      It's dangerous to go alone, take each other!  Remote work has
+      transformed interactive teaching from something that exists in
+      one room to something that can be a community event.  While
+      online misses physical presence, by using the practices
+      CodeRefinery has developed, we can keep it reasonable interactive
+      and take advantage of a huge number of other benefits, such as
+      more collaboration, more ways to learn (for different needs), and
+      more large-scale interaction.
+
+      This mini-workshop will try to discuss (and demonstrate) some of
+      the best practices that CodeRefinery (https://coderefinery.org)
+      has learned during remote teaching, and provides a hands-on way
+      of getting some experience with them.  At only three hours, this
+      is more of a preview and discussion than an intensive training
+      event (and we hope to have a longer event sometime in mid-late
+      2022).
+
+      Info and registration: https://hackmd.io/@coderefinery/community-teaching-2022-summer
+
+    location: Online
+    timezone: Europe/Helsinki
+    begin: 2022-06-21 13:00:00
+    duration: {hours: 3}
