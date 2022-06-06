@@ -24,8 +24,6 @@ events:
   - <<: *ccall
     begin: 2022-05-02 14:00:00
   - <<: *ccall
-    begin: 2022-06-06 14:00:00  # SE national day
-  - <<: *ccall
     begin: 2022-07-04 14:00:00  # after midsummer, vacation for many in the Nordics
   - <<: *ccall
     begin: 2022-08-01 14:00:00
