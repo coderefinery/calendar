@@ -65,7 +65,7 @@ events:
 
   - summary: Kick-off 2022
     location: Aalto University campus (Finland)
-    begin: 2022-09-01 11:30:00
-    end: 2022-09-02 14:00:00
+    begin: 2022-09-01 10:30:00
+    end: 2022-09-02 12:00:00
     description: |
       Details: https://hackmd.io/@coderefinery/kickoff2022
