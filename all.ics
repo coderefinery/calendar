@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T030000
+TZNAME:EEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T040000
+TZNAME:EET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Helsinki
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220131T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:db57ecbd-3a13-4030-940b-08ef7bd352fa@db57.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220228T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:96283d6b-aeac-4f8b-95eb-a11ede64f8ab@9628.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220404T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:b50184c2-a974-4544-9f71-87ab1fbb4cb5@b501.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220502T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:a3ee4064-94e9-4607-a6e3-aab32fff3f4e@a3ee.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220704T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:367557af-29dd-4bcc-af71-17d99f145bc2@3675.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220801T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:4f57e1c7-60ad-4cbb-bb92-a1e25d166890@4f57.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220905T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:f1bb6851-166d-4211-99ff-8dbf4876588e@f1bb.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221003T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:bfe13c25-5112-478f-b29a-cd723a7708c6@bfe1.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221107T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:6cd877f0-b887-4fc0-85b3-dde576cccda3@6cd8.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221205T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:ac6aae76-4c29-4c56-9559-8f917362f044@ac6a.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220621T130000
+DURATION:PT3H
+SUMMARY:Community teaching workshop
+UID:c13a4346-03c0-4e12-a806-5fbe7aeeaea3@c13a.org
+DESCRIPTION:It's dangerous to go alone\, take each other!  Remote work 
+ has\ntransformed interactive teaching from something that exists in\none 
+ room to something that can be a community event.  While\nonline misses 
+ physical presence\, by using the practices\nCodeRefinery has developed\, 
+ we can keep it reasonable interactive\nand take advantage of a huge number
+  of other benefits\, such as\nmore collaboration\, more ways to learn (for
+  different needs)\, and\nmore large-scale interaction.\n\nThis mini-
+ workshop will try to discuss (and demonstrate) some of\nthe best practices
+  that CodeRefinery (https://coderefinery.org)\nhas learned during remote 
+ teaching\, and provides a hands-on way\nof getting some experience with 
+ them.  At only three hours\, this\nis more of a preview and discussion 
+ than an intensive training\nevent (and we hope to have a longer event 
+ sometime in mid-late\n2022).\n\nInfo and registration: 
+ https://hackmd.io/@coderefinery/community-teaching-2022-summer
+LOCATION:Online
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220901T103000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220902T120000
+SUMMARY:Kick-off 2022
+UID:458fc7b4-7fd7-4b87-b292-9a18a3e6b49e@458f.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/kickoff2022
+LOCATION:Aalto University campus (Finland)
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220221T140000
+DURATION:PT30M
+SUMMARY:CodeRefinery team meeting
+UID:f84c4d44-a117-4702-9d23-f96bd116756d@f84c.org
+DESCRIPTION:CodeRefinery team meeting\n\nAgenda and connection details: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20220706T185845Z
+RRULE:FREQ=WEEKLY;UNTIL=20221231T000000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220503T131500
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220503T160000
+SUMMARY:Improving Workshop Registration Online Hackathon
+UID:877f6fef-b7fe-417e-93ea-1e233d028d46@877f.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/hackathon-workshop-
+ registration\n\nIf you can only participate some of the time\, the first 
+ hour is perhaps the most important so that we get a broad input.
+LOCATION:https://uit.zoom.us/j/62141400945
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220518T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220518T120000
+SUMMARY:Measuring Impact of CodeRefinery Workshops Online Hackathon
+UID:01ad1a16-d4d9-4ddf-9135-b99f2c226d7a@01ad.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/hackathon-measure-
+ impact\n\nIf you can only participate some of the time\, the first hour is
+  perhaps the most important so that we get a broad input.
+LOCATION:https://uit.zoom.us/j/62141400945
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20230123T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20230126T130000
+SUMMARY:NeIC All-Hands Meeting
+UID:a087c728-0c66-4317-9355-a70957722856@a087.org
+DESCRIPTION:Details: Agenda/activities and event page yet to be set up.
+LOCATION:Kvitfjell (Norway)
+DTSTAMP:20220706T185845Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220202T120000
+DURATION:PT4H
+SUMMARY:Getting started with scientific computing/HPC
+UID:453fb179-5a77-4a3d-8e62-53925f6cb994@453f.org
+DESCRIPTION:This event introduces you to scientific computing and 
+ using\ncomputer clusters.  The first day is suitable for everyone\, 
+ days\n2-3 are suitable for those who want to learn to use a 
+ computer\ncluster.\n\nday 1: 
+ https://scicomp.aalto.fi/training/scip/getting-started-with-scientific-
+ computing/\nday 2: https://scicomp.aalto.fi/training/scip/winter-
+ kickstart/
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20220706T185845Z
+RRULE:FREQ=DAILY;UNTIL=20220204T130000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220322T085000
+DURATION:PT3H40M
+SUMMARY:CodeRefinery workshop\, March 2022
+UID:de6b64c5-0940-486e-9ae3-c613f08a9f5f@de6b.org
+LOCATION:https://coderefinery.github.io/2022-03-22-workshop/
+DTSTAMP:20220706T185845Z
+RRULE:FREQ=DAILY;UNTIL=20220324T123000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220329T085000
+DURATION:PT3H40M
+SUMMARY:CodeRefinery workshop\, March 2022
+UID:881559e8-7745-414d-a569-de418a3a9c35@8815.org
+LOCATION:https://coderefinery.github.io/2022-03-22-workshop/
+DTSTAMP:20220706T185845Z
+RRULE:FREQ=DAILY;UNTIL=20220331T090000
+END:VEVENT
+NAME:All events, teaching and internal
+X-WR-CALNAME:All events, teaching and internal
+END:VCALENDAR

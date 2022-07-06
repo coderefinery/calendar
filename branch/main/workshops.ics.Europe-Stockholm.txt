@@ -1,0 +1,27 @@
+
+
+----------
+Subject:  Getting started with scientific computing/HPC
+Start:    Wednesday, 02 February 2022, 12:00 CET
+Location: https://twitch.tv/coderefinery
+Description:
+
+This event introduces you to scientific computing and using
+computer clusters.  The first day is suitable for everyone, days
+2-3 are suitable for those who want to learn to use a computer
+cluster.
+
+day 1: https://scicomp.aalto.fi/training/scip/getting-started-with-scientific-computing/
+day 2: https://scicomp.aalto.fi/training/scip/winter-kickstart/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2022
+Start:    Tuesday, 22 March 2022, 08:50 CET
+Location: https://coderefinery.github.io/2022-03-22-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2022
+Start:    Tuesday, 29 March 2022, 08:50 CEST
+Location: https://coderefinery.github.io/2022-03-22-workshop/
