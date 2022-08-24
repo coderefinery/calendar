@@ -49,4 +49,4 @@ events:
     begin: 2022-09-27 8:50:00
     repeat:
       interval: {days: 1}
-      until: 2022-09-29 09:00:00
+      until: 2022-09-29 12:30:00
