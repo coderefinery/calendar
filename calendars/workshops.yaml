@@ -70,7 +70,7 @@ events:
 
 
   # CR September 2023 workshop (two segments since it is split over a week)
-  - &cr-2023-mar
+  - &cr-2023-sep
     summary: CodeRefinery workshop, September 2023
     location: https://coderefinery.org/workshops/upcoming/
     begin: 2023-09-19 08:50:00
