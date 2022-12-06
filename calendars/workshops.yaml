@@ -50,3 +50,37 @@ events:
     repeat:
       interval: {days: 1}
       until: 2022-09-29 12:30:00
+
+
+  # CR March 2023 workshop (two segments since it is split over a week)
+  - &cr-2023-mar
+    summary: CodeRefinery workshop, March 2023
+    location: https://coderefinery.org/workshops/upcoming/
+    begin: 2023-03-21 08:50:00
+    timezone: Europe/Stockholm
+    duration: {minutes: 40, hours: 3}
+    repeat:
+      interval: {days: 1}
+      until: 2023-03-23 12:30:00
+  - <<: *cr-2023-mar
+    begin: 2023-03-28 8:50:00
+    repeat:
+      interval: {days: 1}
+      until: 2023-03-30 12:30:00
+
+
+  # CR September 2023 workshop (two segments since it is split over a week)
+  - &cr-2023-sep
+    summary: CodeRefinery workshop, September 2023
+    location: https://coderefinery.org/workshops/upcoming/
+    begin: 2023-09-19 08:50:00
+    timezone: Europe/Stockholm
+    duration: {minutes: 40, hours: 3}
+    repeat:
+      interval: {days: 1}
+      until: 2023-09-21 12:30:00
+  - <<: *cr-2023-mar
+    begin: 2023-09-26 8:50:00
+    repeat:
+      interval: {days: 1}
+      until: 2023-09-28 12:30:00
