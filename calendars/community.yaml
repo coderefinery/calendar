@@ -69,3 +69,22 @@ events:
     end: 2022-09-02 12:00:00
     description: |
       Details: https://hackmd.io/@coderefinery/kickoff2022
+  
+  - summary: Python for Scicomp Hackathon
+    description: |
+      Work together to improve the Python for Scicomp course materials.
+      The winter 2022 Python for Scicomp is still fresh in our minds
+      and the feedback is handy. It's easy to postpone implementing
+      these to tomorrow, but tomorrow never comes and we end frantically
+      updating materials a few weeks before the course.
+
+      But this time it will be different! We will start with an informal
+      chat and planning session on Zoom and continue to work on our
+      favorite sections, or the sections we think need the most work.
+      
+      Everyone is welcome. You don't need have tought the course. If
+      you have time to help with a few issues, your help is appreciated.
+    location: https://aalto.zoom.us/j/64696542787 and Zulip
+    timezone: Europe/Helsinki
+    begin: 2022-09-01 11:00:00
+    end: 2022-09-02 12:00:00
