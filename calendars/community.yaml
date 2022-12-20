@@ -10,7 +10,7 @@ events:
   - &ccall
     summary: CodeRefinery Community call
     location: https://hackmd.io/@coderefinery/community-call
-    begin: 2022-01-09 14:00:00
+    begin: 2023-01-09 14:00:00
     duration: { hours: 1 }
     description: |
       CodeRefinery community meeting, everyone is most welcome!
