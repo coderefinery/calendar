@@ -14,12 +14,12 @@ events:
       Hop-in help session for installation: https://coderefinery.github.io/installation/
 
   - <<: *installation-session
-      begin: 2023-03-14 13:30:00
-      duration: { minutes: 90 }
+    begin: 2023-03-14 13:30:00
+    duration: { minutes: 90 }
 
   - <<: *installation-session
-      begin: 2023-03-15 13:30:00
-      duration: { minutes: 90 }
+    begin: 2023-03-15 13:30:00
+    duration: { minutes: 90 }
 
   - &onboarding-session
     summary: Onboarding session for team leads, helpers and observers
@@ -28,12 +28,12 @@ events:
       We tell team leads, helpers and observers how the workshop runs and what to expect. Welcome!
 
   - <<: *installation-session
-      begin: 2023-03-14 12:00:00
-      duration: { minutes: 60 }
+    begin: 2023-03-14 12:00:00
+    duration: { minutes: 60 }
 
   - <<: *installation-session
-      begin: 2023-03-15 12:00:00
-      duration: { minutes: 60 }
+    begin: 2023-03-15 12:00:00
+    duration: { minutes: 60 }
 
   - &connecting
     summary: Connecting time
