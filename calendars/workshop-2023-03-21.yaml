@@ -27,11 +27,11 @@ events:
     description: |
       We tell team leads, helpers and observers how the workshop runs and what to expect. Welcome!
 
-  - <<: *installation-session
+  - <<: *onboarding-session
     begin: 2023-03-14 12:00:00
     duration: { minutes: 60 }
 
-  - <<: *installation-session
+  - <<: *onboarding-session
     begin: 2023-03-15 12:00:00
     duration: { minutes: 60 }
 
