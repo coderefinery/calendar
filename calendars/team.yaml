@@ -24,7 +24,6 @@ events:
         - 2022-12-26 14:00:00
         - 2023-05-01 14:00:00
 
-
   # Online Hackathon about Improving Workshop Registration May 2022
   - summary: Improving Workshop Registration Online Hackathon
     location: https://uit.zoom.us/j/62141400945
@@ -51,3 +50,17 @@ events:
     end: 2023-01-26 13:00:00
     description: |
       Details: Agenda/activities and event page yet to be set up.
+
+  - summary: Planning Sept 2023 workshop: big picture, scope, format, changes
+    location: https://uit.zoom.us/j/65782633409
+    begin: 2023-06-16 13:00:00
+    end: 2023-06-16 14:00:00
+    description: |
+      Details: Deciding how we want the workshop to be. This is not yet about self-assigning tasks.
+
+  - summary: Planning Sept 2023 workshop: registration process
+    location: https://uit.zoom.us/j/65782633409
+    begin: 2023-06-16 14:00:00
+    end: 2023-06-16 15:00:00
+    description: |
+      Details: Deciding how we want the registration to be.
