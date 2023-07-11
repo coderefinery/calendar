@@ -1,0 +1,115 @@
+name: CodeRefinery workshop September 19-21 and 26-28, 2023
+description: |
+  Workshop schedule - each session separately.
+timezone: Europe/Stockholm
+
+events:
+  - &installation-session
+    summary: Installation help for everybody
+    location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+  - <<: *installation-session
+    begin: 2023-09-12 14:30:00
+    end: 2023-09-12 16:00:00
+
+  - <<: *installation-session
+    begin: 2023-09-13 14:30:00
+    end: 2023-09-13 16:00:00
+
+  - &onboarding-video-team-leaders
+    summary: On-boarding for team leaders leading groups over video
+    location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+  - <<: *onboarding-video-team-leaders
+    begin: 2023-09-12 11:30:00
+    end: 2023-09-12 12:30:00
+
+  - <<: *onboarding-video-team-leaders
+    begin: 2023-09-13 11:30:00
+    end: 2023-09-13 12:30:00
+
+  - &onboarding-in-person-team-leaders
+    summary: On-boarding for team leaders leading in-person teams
+    location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+  - <<: *onboarding-in-person-team-leaders
+    begin: 2023-09-12 13:00:00
+    end: 2023-09-12 14:00:00
+
+  - <<: *onboarding-in-person-team-leaders
+    begin: 2023-09-13 13:00:00
+    end: 2023-09-13 14:00:00
+
+  - &base
+    location: https://twitch.tv/coderefinery
+
+  - <<: *base
+    summary: Welcome and introduction
+    begin: 2023-09-19 09:00:00
+    end: 2023-09-19 09:20:00
+
+  - <<: *base
+    summary: Introduction to version control - part 1/4
+    begin: 2023-09-19 09:20:00
+    end: 2023-09-19 11:00:00
+
+  - <<: *base
+    summary: Introduction to version control - part 2/4
+    begin: 2023-09-19 12:00:00
+    end: 2023-09-19 13:30:00
+
+  - <<: *base
+    summary: Introduction to version control - part 3/4
+    begin: 2023-09-20 09:00:00
+    end: 2023-09-20 11:00:00
+
+  - <<: *base
+    summary: Introduction to version control - part 4/4
+    begin: 2023-09-20 12:00:00
+    end: 2023-09-20 13:30:00
+
+  - <<: *base
+    summary: Collaborative distributed version control - part 1/2
+    begin: 2023-09-21 09:00:00
+    end: 2023-09-21 11:00:00
+
+  - <<: *base
+    summary: Collaborative distributed version control - part 2/2
+    begin: 2023-09-21 12:00:00
+    end: 2023-09-21 13:30:00
+
+  - <<: *base
+    summary: Reproducible research and FAIR data
+    begin: 2023-09-26 09:00:00
+    end: 2023-09-26 11:00:00
+
+  - <<: *base
+    summary: Social coding and open software
+    begin: 2023-09-26 12:00:00
+    end: 2023-09-26 13:30:00
+
+  - <<: *base
+    summary: Documentation
+    begin: 2023-09-27 09:00:00
+    end: 2023-09-27 11:00:00
+
+  - <<: *base
+    summary: Jupyter
+    begin: 2023-09-27 12:00:00
+    end: 2023-09-27 13:30:00
+
+  - <<: *base
+    summary: Software testing
+    begin: 2023-09-28 09:00:00
+    end: 2023-09-28 11:00:00
+
+  - <<: *base
+    summary: Modular code development
+    begin: 2023-09-28 12:00:00
+    end: 2023-09-28 13:30:00
+
+  - <<: *base
+    summary: Concluding remarks and where to go from here
+    begin: 2023-09-28 13:30:00
+    end: 2023-09-28 14:00:00
+
