@@ -1,4 +1,4 @@
-# git-calendar for Nordic RSE
+# git-calendar for CodeRefinery
 
 Manage calendar events (converting them to an iCalendar feed, which
 can be imported into different calendar programs.  The complied feeds
