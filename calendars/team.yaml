@@ -64,3 +64,13 @@ events:
     end: 2023-06-16 15:00:00
     description: |
       Details: Deciding how we want the registration to be.
+
+  - summary: "Online writing retreat"
+    location: https://hackmd.io/@coderefinery/writing-retreat
+    begin: 2023-08-23 9:30:00
+    end: 2023-08-23 15:00:00
+    repeat:
+      interval: { days: 1 }
+      until: 2023-08-25
+    description: |
+      Details: Lesson development and any other collaborative writing we want to do or discuss.
