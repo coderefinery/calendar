@@ -71,6 +71,6 @@ events:
     end: 2023-08-23 15:00:00
     repeat:
       interval: { days: 1 }
-      until: 2023-08-25
+      until: 2023-08-26
     description: |
       Details: Lesson development and any other collaborative writing we want to do or discuss.
