@@ -82,8 +82,19 @@ events:
     repeat:
       interval: {days: 1}
       until: 2023-09-21 13:30:00
-  - <<: *cr-2023-sep
-    begin: 2023-09-26 9:00:00
-    repeat:
-      interval: {days: 1}
-      until: 2023-09-28 13:30:00
+  
+  # Bring your own code event after sep workshop
+  - &byoc-cr-2023-sep
+    summary: Bring your own code session - CodeRefinery workshop, September 2023
+    location: https://coderefinery.github.io/2023-09-19-workshop/
+    timezone: Europe/Stockholm
+    begin: 2023-10-02 15:00:00
+    duration: {hours: 1, minutes: 30}
+
+  # Bring your own code event after sep workshop
+  - &byoc-cr-2023-sep
+    summary: Bring your own code session - CodeRefinery workshop, September 2023
+    location: https://coderefinery.github.io/2023-09-19-workshop/
+    timezone: Europe/Stockholm
+    begin: 2023-10-09 15:00:00
+    duration: {hours: 1, minutes: 30}
