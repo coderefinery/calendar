@@ -92,7 +92,7 @@ events:
     duration: {hours: 1, minutes: 30}
 
   # Bring your own code event after sep workshop
-  - &byoc-cr-2023-sep
+  - &byoc2-cr-2023-sep
     summary: Bring your own code session - CodeRefinery workshop, September 2023
     location: https://coderefinery.github.io/2023-09-19-workshop/
     timezone: Europe/Stockholm
