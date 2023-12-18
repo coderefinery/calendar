@@ -19,10 +19,13 @@ events:
       Agenda and connection details: https://hackmd.io/@coderefinery/team-meeting
     repeat:
       interval: {weeks: 1}
-      until: 2023-12-31
+      until: 2024-12-31
       except_on:
         - 2022-12-26 14:00:00
         - 2023-05-01 14:00:00
+        - 2023-12-18 14:00:00
+        - 2023-12-25 14:00:00
+        - 2023-01-01 14:00:00
 
   # Online Hackathon about Improving Workshop Registration May 2022
   - summary: Improving Workshop Registration Online Hackathon
