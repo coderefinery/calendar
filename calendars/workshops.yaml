@@ -130,4 +130,4 @@ events:
     location: https://coderefinery.github.io/2024-03-12-workshop/
     timezone: Europe/Stockholm
     begin: 2024-04-02 13:00:00
-    duration: {hours: 1, minutes: 30}
+    duration: {hours: 2}
