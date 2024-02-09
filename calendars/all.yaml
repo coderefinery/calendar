@@ -6,5 +6,6 @@ include:
   - workshops.yaml
   - community.yaml
   - workshop-2023-09-19.yaml
+  - workshop-2024-03-12.yaml
 
 events: [ ]
