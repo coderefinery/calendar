@@ -122,7 +122,7 @@ events:
     location: https://coderefinery.github.io/2024-03-12-workshop/
     timezone: Europe/Stockholm
     begin: 2024-03-26 13:00:00
-    duration: {hours: 1, minutes: 30}
+    duration: {hours: 2}
 
   # Bring your own code event after sep workshop
   - &byoc2-cr-2024-mar
