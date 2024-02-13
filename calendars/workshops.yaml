@@ -105,12 +105,13 @@ events:
     location: https://coderefinery.org/workshops/upcoming/
     begin: 2024-10-08 08:50:00
     timezone: Europe/Stockholm
-    duration: {minutes: 10, hours: 3}
+    duration: {hours: 3, minutes: 10}
     repeat:
       interval: {days: 1}
-      until: 2023-10-10 12:00:00
+      until: 2024-10-10 12:00:00
   - <<: *bsh-2024-oct
-    begin: 2023-10-15 9:00:00
+    begin: 2024-10-15 9:00:00
+    duration: {hours: 7, minutes: 0}
     repeat:
       interval: {days: 1}
       until: 2024-10-17 16:00:00
