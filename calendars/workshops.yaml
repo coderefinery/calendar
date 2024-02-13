@@ -131,3 +131,20 @@ events:
     timezone: Europe/Stockholm
     begin: 2024-04-02 13:00:00
     duration: {hours: 2}
+
+  # October 2024 Build Systems Hackathon (two segments since it is split over two weeks)
+  - &bsh-2024-oct
+    summary: Build Systems Hackathon, October 2024
+    location: https://coderefinery.org/workshops/upcoming/
+    begin: 2024-10-08 08:50:00
+    timezone: Europe/Stockholm
+    duration: {hours: 3, minutes: 10}
+    repeat:
+      interval: {days: 1}
+      until: 2024-10-10 12:00:00
+  - <<: *bsh-2024-oct
+    begin: 2024-10-15 9:00:00
+    duration: {hours: 7, minutes: 0}
+    repeat:
+      interval: {days: 1}
+      until: 2024-10-17 16:00:00
