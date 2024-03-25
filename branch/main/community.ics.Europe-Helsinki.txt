@@ -1,0 +1,90 @@
+
+
+----------
+Subject:  CodeRefinery Community call
+Start:    Monday, 09 January 2023, 15:00 EET
+Location: https://hackmd.io/@coderefinery/community-call
+Description:
+
+CodeRefinery community meeting, everyone is most welcome!
+
+Agenda/connection details: https://hackmd.io/@coderefinery/community-call
+
+
+----------
+Subject:  CodeRefinery Community call
+Start:    Monday, 09 January 2023, 15:00 EET
+Location: https://hackmd.io/@coderefinery/community-call
+Description:
+
+CodeRefinery community meeting, everyone is most welcome!
+
+Agenda/connection details: https://hackmd.io/@coderefinery/community-call
+
+
+----------
+Subject:  CodeRefinery Community call
+Start:    Monday, 06 February 2023, 15:00 EET
+Location: https://hackmd.io/@coderefinery/community-call
+Description:
+
+CodeRefinery community meeting, everyone is most welcome!
+
+Agenda/connection details: https://hackmd.io/@coderefinery/community-call
+
+
+----------
+Subject:  Community teaching workshop
+Start:    Tuesday, 21 June 2022, 13:00 EEST
+Location: Online
+Description:
+
+It's dangerous to go alone, take each other!  Remote work has
+transformed interactive teaching from something that exists in
+one room to something that can be a community event.  While
+online misses physical presence, by using the practices
+CodeRefinery has developed, we can keep it reasonable interactive
+and take advantage of a huge number of other benefits, such as
+more collaboration, more ways to learn (for different needs), and
+more large-scale interaction.
+
+This mini-workshop will try to discuss (and demonstrate) some of
+the best practices that CodeRefinery (https://coderefinery.org)
+has learned during remote teaching, and provides a hands-on way
+of getting some experience with them.  At only three hours, this
+is more of a preview and discussion than an intensive training
+event (and we hope to have a longer event sometime in mid-late
+2022).
+
+Info and registration: https://hackmd.io/@coderefinery/community-teaching-2022-summer
+
+
+----------
+Subject:  Kick-off 2022
+Start:    Thursday, 01 September 2022, 11:30 EEST
+End:      Friday, 02 September 2022, 13:00 EEST
+Location: Aalto University campus (Finland)
+Description:
+
+Details: https://hackmd.io/@coderefinery/kickoff2022
+
+
+----------
+Subject:  Python for Scicomp Hackathon
+Start:    Thursday, 01 September 2022, 11:00 EEST
+End:      Friday, 02 September 2022, 12:00 EEST
+Location: https://aalto.zoom.us/j/64696542787 and Zulip
+Description:
+
+Work together to improve the Python for Scicomp course materials.
+The winter 2022 Python for Scicomp is still fresh in our minds
+and the feedback is handy. It's easy to postpone implementing
+these to tomorrow, but tomorrow never comes and we end frantically
+updating materials a few weeks before the course.
+
+But this time it will be different! We will start with an informal
+chat and planning session on Zoom and continue to work on our
+favorite sections, or the sections we think need the most work.
+
+Everyone is welcome. You don't need have tought the course. If
+you have time to help with a few issues, your help is appreciated.

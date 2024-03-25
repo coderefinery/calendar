@@ -1,0 +1,111 @@
+
+
+----------
+Subject:  Getting started with scientific computing/HPC
+Start:    Wednesday, 02 February 2022, 12:00 CET
+Location: https://twitch.tv/coderefinery
+Description:
+
+This event introduces you to scientific computing and using
+computer clusters.  The first day is suitable for everyone, days
+2-3 are suitable for those who want to learn to use a computer
+cluster.
+
+day 1: https://scicomp.aalto.fi/training/scip/getting-started-with-scientific-computing/
+day 2: https://scicomp.aalto.fi/training/scip/winter-kickstart/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2022
+Start:    Tuesday, 22 March 2022, 08:50 CET
+Location: https://coderefinery.github.io/2022-03-22-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2022
+Start:    Tuesday, 29 March 2022, 08:50 CEST
+Location: https://coderefinery.github.io/2022-03-22-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2022
+Start:    Tuesday, 20 September 2022, 08:50 CEST
+Location: https://coderefinery.github.io/2022-09-20-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2022
+Start:    Tuesday, 27 September 2022, 08:50 CEST
+Location: https://coderefinery.github.io/2022-09-20-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2023
+Start:    Tuesday, 21 March 2023, 08:50 CET
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2023
+Start:    Tuesday, 28 March 2023, 08:50 CEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2023
+Start:    Tuesday, 12 September 2023, 11:30 CEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2023
+Start:    Tuesday, 19 September 2023, 09:00 CEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, September 2023
+Start:    Monday, 02 October 2023, 15:00 CEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, September 2023
+Start:    Monday, 09 October 2023, 15:00 CEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2024
+Start:    Tuesday, 12 March 2024, 09:00 CET
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2024
+Start:    Tuesday, 19 March 2024, 09:00 CET
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, March 2024
+Start:    Tuesday, 26 March 2024, 13:00 CET
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, March 2024
+Start:    Tuesday, 02 April 2024, 13:00 CEST
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 08 October 2024, 08:50 CEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 15 October 2024, 09:00 CEST
+Location: https://coderefinery.org/workshops/upcoming/

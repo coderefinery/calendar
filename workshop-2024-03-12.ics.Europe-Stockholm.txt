@@ -1,0 +1,156 @@
+
+
+----------
+Subject:  Installation help for everybody
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Tuesday, 05 March 2024, 13:30 CET
+End:      Tuesday, 05 March 2024, 15:00 CET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Thursday, 07 March 2024, 13:30 CET
+End:      Thursday, 07 March 2024, 15:00 CET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Tuesday, 05 March 2024, 10:30 CET
+End:      Tuesday, 05 March 2024, 11:30 CET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Thursday, 07 March 2024, 10:30 CET
+End:      Thursday, 07 March 2024, 11:30 CET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Tuesday, 05 March 2024, 12:00 CET
+End:      Tuesday, 05 March 2024, 13:00 CET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Thursday, 07 March 2024, 12:00 CET
+End:      Thursday, 07 March 2024, 13:00 CET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Welcome and introduction
+Start:    Tuesday, 12 March 2024, 09:00 CET
+End:      Tuesday, 12 March 2024, 09:20 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 1/4
+Start:    Tuesday, 12 March 2024, 09:20 CET
+End:      Tuesday, 12 March 2024, 11:00 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 2/4
+Start:    Tuesday, 12 March 2024, 12:00 CET
+End:      Tuesday, 12 March 2024, 13:30 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 3/4
+Start:    Wednesday, 13 March 2024, 09:00 CET
+End:      Wednesday, 13 March 2024, 11:00 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 4/4
+Start:    Wednesday, 13 March 2024, 12:00 CET
+End:      Wednesday, 13 March 2024, 13:30 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 1/2
+Start:    Thursday, 14 March 2024, 09:00 CET
+End:      Thursday, 14 March 2024, 11:00 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 2/2
+Start:    Thursday, 14 March 2024, 12:00 CET
+End:      Thursday, 14 March 2024, 13:30 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Reproducible research and FAIR data
+Start:    Tuesday, 19 March 2024, 09:00 CET
+End:      Tuesday, 19 March 2024, 11:00 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Social coding and open software
+Start:    Tuesday, 19 March 2024, 12:00 CET
+End:      Tuesday, 19 March 2024, 13:30 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Documentation
+Start:    Wednesday, 20 March 2024, 09:00 CET
+End:      Wednesday, 20 March 2024, 11:00 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Jupyter
+Start:    Wednesday, 20 March 2024, 12:00 CET
+End:      Wednesday, 20 March 2024, 13:30 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Software testing
+Start:    Thursday, 21 March 2024, 09:00 CET
+End:      Thursday, 21 March 2024, 11:00 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Modular code development
+Start:    Thursday, 21 March 2024, 12:00 CET
+End:      Thursday, 21 March 2024, 13:30 CET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Concluding remarks and where to go from here
+Start:    Thursday, 21 March 2024, 13:30 CET
+End:      Thursday, 21 March 2024, 14:00 CET
+Location: https://twitch.tv/coderefinery

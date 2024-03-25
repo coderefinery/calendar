@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T030000
+TZNAME:EEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T040000
+TZNAME:EET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Helsinki
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Installation help for everybody
+UID:d129ad78-1786-4dea-9390-ebb4fa967c7a@d129.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230912T153000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230912T170000
+SUMMARY:Installation help for everybody
+UID:bd8eaa9c-6f79-4db6-a4d2-1aa8120b6c6c@bd8e.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230913T153000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230913T170000
+SUMMARY:Installation help for everybody
+UID:87e51f94-bd8b-4392-86ea-3a29e3d77446@87e5.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On-boarding for team leaders leading groups over video
+UID:ad2cf76b-6b35-4a05-a7dc-120039034901@ad2c.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230912T123000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230912T133000
+SUMMARY:On-boarding for team leaders leading groups over video
+UID:ea7bc10a-2edf-47cf-84ba-78e17a5a72e4@ea7b.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230913T123000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230913T133000
+SUMMARY:On-boarding for team leaders leading groups over video
+UID:4b51c5c4-a67b-4602-9ffc-38a41e4ebc97@4b51.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On-boarding for team leaders leading in-person teams
+UID:f873778b-bcec-484b-ba54-4d3ec9e1dcde@f873.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230912T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230912T150000
+SUMMARY:On-boarding for team leaders leading in-person teams
+UID:b6d1f79b-4e34-4413-899b-d9277b97d276@b6d1.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230913T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230913T150000
+SUMMARY:On-boarding for team leaders leading in-person teams
+UID:3635b37d-ee5c-4834-8d0a-8814af0e2af4@3635.org
+LOCATION:register at https://coderefinery.github.io/2023-09-19-workshop/ to
+  get zoom link
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+UID:10729002-1b66-4bc7-a0ba-a9f4586a8a00@1072.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230919T100000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230919T102000
+SUMMARY:Welcome and introduction
+UID:8e045aca-e880-4374-950e-ed4a9cbb5767@8e04.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230919T102000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230919T120000
+SUMMARY:Introduction to version control - part 1/4
+UID:6212ee5d-7193-4bc6-9633-6095f141db44@6212.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230919T130000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230919T143000
+SUMMARY:Introduction to version control - part 2/4
+UID:0a979796-d68d-403e-beef-d2c16a751382@0a97.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230920T100000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230920T120000
+SUMMARY:Introduction to version control - part 3/4
+UID:8458f09f-10b3-4bbe-8314-146c9803ad25@8458.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230920T130000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230920T143000
+SUMMARY:Introduction to version control - part 4/4
+UID:6dfebbea-d55e-41e6-aafb-a3aabe25aa08@6dfe.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230921T100000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230921T120000
+SUMMARY:Collaborative distributed version control - part 1/2
+UID:cc2e73dc-74c8-4534-b686-3f5e23a20fc8@cc2e.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230921T130000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230921T143000
+SUMMARY:Collaborative distributed version control - part 2/2
+UID:f603d125-3f23-48d3-a384-729d5572bea3@f603.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230926T100000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230926T120000
+SUMMARY:Reproducible research and FAIR data
+UID:7e4c113d-0fb9-478f-9744-fb6b01a5af8b@7e4c.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230926T130000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230926T143000
+SUMMARY:Social coding and open software
+UID:7b47187c-2fcf-495f-ac8c-d90b335bc499@7b47.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230927T100000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230927T120000
+SUMMARY:Documentation
+UID:0fd99f24-81f7-45bd-aebb-93d03747b528@0fd9.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230927T130000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230927T143000
+SUMMARY:Jupyter
+UID:fcb74f45-e179-47db-b327-15a6bf4cdbca@fcb7.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230928T100000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230928T120000
+SUMMARY:Software testing
+UID:8334cbbd-845a-4c79-9b4f-d95c2dd33046@8334.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230928T130000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230928T143000
+SUMMARY:Modular code development
+UID:54fcbf02-8d81-44d9-b8c9-0d7a0f597085@54fc.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230928T143000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20230928T150000
+SUMMARY:Concluding remarks and where to go from here
+UID:34afc877-7c9d-48af-b520-143145fd39e1@34af.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240325T112412Z
+END:VEVENT
+END:VCALENDAR
