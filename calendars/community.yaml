@@ -7,19 +7,13 @@ timezone: Europe/Stockholm
 
 events:
   # Community calls
-  - &ccall
-    summary: CodeRefinery Community call
+  - summary: CodeRefinery Community call
     location: https://hackmd.io/@coderefinery/community-call
-    begin: 2023-01-09 14:00:00
+    begin: 2024-04-08 14:00:00
     duration: { hours: 1 }
     description: |
       CodeRefinery community meeting, everyone is most welcome!
-
       Agenda/connection details: https://hackmd.io/@coderefinery/community-call
-  - <<: *ccall
-    begin: 2023-01-09 14:00:00 # Second week of the year
-  - <<: *ccall
-    begin: 2023-02-06 14:00:00
 
 
   - summary: Community teaching workshop
