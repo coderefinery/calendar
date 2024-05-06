@@ -148,3 +148,19 @@ events:
     repeat:
       interval: {days: 1}
       until: 2024-10-17 16:00:00
+
+  # CR September 2024 workshop 
+  - &cr-2024-sep
+    summary: CodeRefinery workshop, September 2024
+    location: TBD
+    timezone: Europe/Stockholm
+    begin: 2024-09-10 09:00:00
+    duration: {hours: 4, minutes: 30}
+    repeat:
+      interval: {days: 1}
+      until: 2024-09-12 13:30:00
+  - <<: *cr-2024-sep
+    begin: 2024-09-17 09:00:00
+    repeat:
+      interval: {days: 1}
+      until: 2024-09-19 14:00:00
