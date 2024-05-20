@@ -25,6 +25,23 @@ events:
         - 2024-05-20 14:00:00
         - 2024-05-06 14:00:00
         - 2024-05-13 14:00:00
+        - 2024-05-20 14:00:00
+        - 2024-05-27 14:00:00
+        - 2024-06-03 14:00:00
+
+- summary: The future of the CodeRefinery project
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2024-06-03 14:00:00
+    end: 2024-06-03 14:30:00
+    description: |
+      Details: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: The CodeRefinery chat - a home for the community
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2024-05-27 14:00:00
+    end: 2024-05-27 14:30:00
+    description: |
+      Details: https://hackmd.io/@coderefinery/team-meeting
 
   - summary: Welcome CodeRefinery ambassadors!
     location: https://hackmd.io/@coderefinery/team-meeting
