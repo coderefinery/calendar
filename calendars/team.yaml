@@ -64,6 +64,22 @@ events:
     description: |
       Details: https://hackmd.io/@coderefinery/cr-future-ideas
 
+  - summary: CodeRefinery co-working session
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2024-05-27 15:00:00
+    duration: { minutes: 60 }
+    description: |
+      CodeRefinery co-working session
+      
+      Come to work on CodeRefinery tasks together, ask about open and urgent tasks or
+      discuss new task ideas.
+      
+      Task board: https://github.com/orgs/coderefinery/projects/7
+      Connection details: https://hackmd.io/@coderefinery/team-meeting
+    repeat:
+      interval: {weeks: 1}
+      until: 2024-12-31
+
   # Online Hackathon about Improving Workshop Registration May 2022
   - summary: Improving Workshop Registration Online Hackathon
     location: https://uit.zoom.us/j/62141400945
