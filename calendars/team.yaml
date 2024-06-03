@@ -7,27 +7,19 @@ include:
   - community.yaml
 
 events:
-  # Team meetings
-  - &team-meeting
-    summary: CodeRefinery team and community meeting
+  - summary: General CodeRefinery get-togther
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2022-02-21 14:00:00
-    duration: { minutes: 30 }
+    begin: 2024-06-17 14:00:00
+    end: 2024-06-17 14:30:00
     description: |
-      CodeRefinery team meeting
+      Details: https://hackmd.io/@coderefinery/team-meeting
 
-      Agenda and connection details: https://hackmd.io/@coderefinery/team-meeting
-    repeat:
-      interval: {weeks: 1}
-      until: 2024-12-31
-      except_on:
-        - 2024-04-01 14:00:00
-        - 2024-05-20 14:00:00
-        - 2024-05-06 14:00:00
-        - 2024-05-13 14:00:00
-        - 2024-05-20 14:00:00
-        - 2024-05-27 14:00:00
-        - 2024-06-03 14:00:00
+  - summary: Coderefinery in half a day format
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2024-06-10 14:00:00
+    end: 2024-06-10 14:30:00
+    description: |
+      Details: https://hackmd.io/@coderefinery/team-meeting
 
   - summary: The future of the CodeRefinery project
     location: https://hackmd.io/@coderefinery/team-meeting
@@ -48,14 +40,14 @@ events:
     begin: 2024-05-13 14:00:00
     end: 2024-05-13 14:30:00
     description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting 
-      
+      Details: https://hackmd.io/@coderefinery/team-meeting
+
   - summary: Planning the autumn CodeRefinery workshop
     location: https://hackmd.io/@coderefinery/team-meeting
     begin: 2024-05-06 14:00:00
     end: 2024-05-06 14:30:00
     description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting 
+      Details: https://hackmd.io/@coderefinery/team-meeting
 
   - summary: Discussing CodeRefinery future
     location: https://uit.zoom.us/j/62141400945
@@ -70,10 +62,10 @@ events:
     duration: { minutes: 60 }
     description: |
       CodeRefinery co-working session
-      
+
       Come to work on CodeRefinery tasks together, ask about open and urgent tasks or
       discuss new task ideas.
-      
+
       Task board: https://github.com/orgs/coderefinery/projects/7
       Connection details: https://hackmd.io/@coderefinery/team-meeting
     repeat:
