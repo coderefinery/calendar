@@ -1,0 +1,11 @@
+name: All Workshop/Training events by partners
+description: |
+  All workshop and training events by partners of CodeRefinery.
+include:
+    # Aalto SciComp
+  - https://aaltoscicomp.github.io/public-calendar/training.ics  
+    # ENCCS
+  - https://enccs.se/events-at-enccs/list/?shortcode=5210815c&ical=1
+   # PDC
+  - https://www.pdc.kth.se/api/icalendar/export/2.78462?l=en_GB&c=all
+events: [ ]
