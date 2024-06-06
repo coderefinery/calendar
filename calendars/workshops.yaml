@@ -164,3 +164,14 @@ events:
     repeat:
       interval: {days: 1}
       until: 2024-09-19 14:00:00
+
+  # CR train the trainer 2024 workshop 
+  - &cr-ttt-2024
+    summary: Preliminary reservation: CodeRefinery train the trainer workshop, 2024
+    location: TBD
+    timezone: Europe/Stockholm
+    begin: 2024-08-13 09:00:00
+    duration: {hours: 3}
+    repeat:
+      interval: {weeks: 1}
+      until: 2024-09-03 12:00:00
