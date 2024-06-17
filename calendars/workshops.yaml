@@ -132,6 +132,17 @@ events:
     begin: 2024-04-02 13:00:00
     duration: {hours: 2}
 
+  # CR August 2024 workshop, Gothenburg
+  - &gbg-2024-aug
+    summary: CodeRefinery workshop, Chalmers, Gothenburg, August 2024
+    location: https://coderefinery.org/workshops/upcoming/
+    begin: 2024-08-27 09:00:00
+    timezone: Europe/Stockholm
+    duration: {hours: 7, minutes: 00}
+    repeat:
+      interval: {days: 1}
+      until: 2024-08-29 16:00:00
+
   # October 2024 Build Systems Hackathon (two segments since it is split over two weeks)
   - &bsh-2024-oct
     summary: Build Systems Hackathon, October 2024
