@@ -1,0 +1,1391 @@
+
+
+----------
+Subject:  CodeRefinery Community call
+Start:    Monday, 08 April 2024, 15:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery community meeting, everyone is most welcome!
+Agenda/connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Welcome CodeRefinery ambassadors!
+Start:    Monday, 13 May 2024, 15:00 EEST
+End:      Monday, 13 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Community teaching workshop
+Start:    Tuesday, 21 June 2022, 13:00 EEST
+Location: Online
+Description:
+
+It's dangerous to go alone, take each other!  Remote work has
+transformed interactive teaching from something that exists in
+one room to something that can be a community event.  While
+online misses physical presence, by using the practices
+CodeRefinery has developed, we can keep it reasonable interactive
+and take advantage of a huge number of other benefits, such as
+more collaboration, more ways to learn (for different needs), and
+more large-scale interaction.
+
+This mini-workshop will try to discuss (and demonstrate) some of
+the best practices that CodeRefinery (https://coderefinery.org)
+has learned during remote teaching, and provides a hands-on way
+of getting some experience with them.  At only three hours, this
+is more of a preview and discussion than an intensive training
+event (and we hope to have a longer event sometime in mid-late
+2022).
+
+Info and registration: https://hackmd.io/@coderefinery/community-teaching-2022-summer
+
+
+----------
+Subject:  Kick-off 2022
+Start:    Thursday, 01 September 2022, 11:30 EEST
+End:      Friday, 02 September 2022, 13:00 EEST
+Location: Aalto University campus (Finland)
+Description:
+
+Details: https://hackmd.io/@coderefinery/kickoff2022
+
+
+----------
+Subject:  Python for Scicomp Hackathon
+Start:    Thursday, 01 September 2022, 11:00 EEST
+End:      Friday, 02 September 2022, 12:00 EEST
+Location: https://aalto.zoom.us/j/64696542787 and Zulip
+Description:
+
+Work together to improve the Python for Scicomp course materials.
+The winter 2022 Python for Scicomp is still fresh in our minds
+and the feedback is handy. It's easy to postpone implementing
+these to tomorrow, but tomorrow never comes and we end frantically
+updating materials a few weeks before the course.
+
+But this time it will be different! We will start with an informal
+chat and planning session on Zoom and continue to work on our
+favorite sections, or the sections we think need the most work.
+
+Everyone is welcome. You don't need have tought the course. If
+you have time to help with a few issues, your help is appreciated.
+
+
+----------
+Subject:  General CodeRefinery get-togther
+Start:    Monday, 17 June 2024, 15:00 EEST
+End:      Monday, 17 June 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Coderefinery in half a day format
+Start:    Monday, 10 June 2024, 15:00 EEST
+End:      Monday, 10 June 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  The future of the CodeRefinery project
+Start:    Monday, 03 June 2024, 15:00 EEST
+End:      Monday, 03 June 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  The CodeRefinery chat - a home for the community
+Start:    Monday, 27 May 2024, 15:00 EEST
+End:      Monday, 27 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Welcome CodeRefinery ambassadors!
+Start:    Monday, 13 May 2024, 15:00 EEST
+End:      Monday, 13 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Planning the autumn CodeRefinery workshop
+Start:    Monday, 06 May 2024, 15:00 EEST
+End:      Monday, 06 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Discussing CodeRefinery future
+Start:    Tuesday, 23 January 2024, 14:00 EET
+End:      Tuesday, 23 January 2024, 15:00 EET
+Location: https://uit.zoom.us/j/62141400945
+Description:
+
+Details: https://hackmd.io/@coderefinery/cr-future-ideas
+
+
+----------
+Subject:  CodeRefinery co-working session
+Start:    Monday, 27 May 2024, 16:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery co-working session
+
+Come to work on CodeRefinery tasks together, ask about open and urgent tasks or
+discuss new task ideas.
+
+Task board: https://github.com/orgs/coderefinery/projects/7
+Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Improving Workshop Registration Online Hackathon
+Start:    Tuesday, 03 May 2022, 14:15 EEST
+End:      Tuesday, 03 May 2022, 17:00 EEST
+Location: https://uit.zoom.us/j/62141400945
+Description:
+
+Details: https://hackmd.io/@coderefinery/hackathon-workshop-registration
+
+If you can only participate some of the time, the first hour is perhaps the most important so that we get a broad input.
+
+
+----------
+Subject:  Measuring Impact of CodeRefinery Workshops Online Hackathon
+Start:    Wednesday, 18 May 2022, 10:00 EEST
+End:      Wednesday, 18 May 2022, 13:00 EEST
+Location: https://uit.zoom.us/j/62141400945
+Description:
+
+Details: https://hackmd.io/@coderefinery/hackathon-measure-impact
+
+If you can only participate some of the time, the first hour is perhaps the most important so that we get a broad input.
+
+
+----------
+Subject:  NeIC All-Hands Meeting
+Start:    Monday, 23 January 2023, 10:00 EET
+End:      Thursday, 26 January 2023, 14:00 EET
+Location: Kvitfjell (Norway)
+Description:
+
+Details: Agenda/activities and event page yet to be set up.
+
+
+----------
+Subject:  Planning Sept 2023 workshop: big picture, scope, format, changes
+Start:    Friday, 16 June 2023, 14:00 EEST
+End:      Friday, 16 June 2023, 15:00 EEST
+Location: https://uit.zoom.us/j/65782633409
+Description:
+
+Details: Deciding how we want the workshop to be. This is not yet about self-assigning tasks.
+
+
+----------
+Subject:  Planning Sept 2023 workshop: registration process
+Start:    Friday, 16 June 2023, 15:00 EEST
+End:      Friday, 16 June 2023, 16:00 EEST
+Location: https://uit.zoom.us/j/65782633409
+Description:
+
+Details: Deciding how we want the registration to be.
+
+
+----------
+Subject:  Online writing retreat
+Start:    Wednesday, 23 August 2023, 10:30 EEST
+End:      Wednesday, 23 August 2023, 16:00 EEST
+Location: https://hackmd.io/@coderefinery/writing-retreat
+Description:
+
+Details: Lesson development and any other collaborative writing we want to do or discuss.
+
+
+----------
+Subject:  Getting started with scientific computing/HPC
+Start:    Wednesday, 02 February 2022, 13:00 EET
+Location: https://twitch.tv/coderefinery
+Description:
+
+This event introduces you to scientific computing and using
+computer clusters.  The first day is suitable for everyone, days
+2-3 are suitable for those who want to learn to use a computer
+cluster.
+
+day 1: https://scicomp.aalto.fi/training/scip/getting-started-with-scientific-computing/
+day 2: https://scicomp.aalto.fi/training/scip/winter-kickstart/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2022
+Start:    Tuesday, 22 March 2022, 09:50 EET
+Location: https://coderefinery.github.io/2022-03-22-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2022
+Start:    Tuesday, 29 March 2022, 09:50 EEST
+Location: https://coderefinery.github.io/2022-03-22-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2022
+Start:    Tuesday, 20 September 2022, 09:50 EEST
+Location: https://coderefinery.github.io/2022-09-20-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2022
+Start:    Tuesday, 27 September 2022, 09:50 EEST
+Location: https://coderefinery.github.io/2022-09-20-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2023
+Start:    Tuesday, 21 March 2023, 09:50 EET
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2023
+Start:    Tuesday, 28 March 2023, 09:50 EEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2023
+Start:    Tuesday, 12 September 2023, 12:30 EEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2023
+Start:    Tuesday, 19 September 2023, 10:00 EEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, September 2023
+Start:    Monday, 02 October 2023, 16:00 EEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, September 2023
+Start:    Monday, 09 October 2023, 16:00 EEST
+Location: https://coderefinery.github.io/2023-09-19-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2024
+Start:    Tuesday, 12 March 2024, 10:00 EET
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, March 2024
+Start:    Tuesday, 19 March 2024, 10:00 EET
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, March 2024
+Start:    Tuesday, 26 March 2024, 14:00 EET
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  Bring your own code session - CodeRefinery workshop, March 2024
+Start:    Tuesday, 02 April 2024, 14:00 EEST
+Location: https://coderefinery.github.io/2024-03-12-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop, Chalmers, Gothenburg, August 2024
+Start:    Tuesday, 27 August 2024, 10:00 EEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 08 October 2024, 09:50 EEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 15 October 2024, 10:00 EEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  CodeRefinery workshop, September 2024
+Start:    Tuesday, 10 September 2024, 10:00 EEST
+Location: TBD
+
+
+----------
+Subject:  CodeRefinery workshop, September 2024
+Start:    Tuesday, 17 September 2024, 10:00 EEST
+Location: TBD
+
+
+----------
+Subject:  Preliminary reservation: CodeRefinery train the trainer workshop, 2024
+Start:    Tuesday, 13 August 2024, 10:00 EEST
+Location: TBD
+
+
+----------
+Subject:  CodeRefinery Community call
+Start:    Monday, 08 April 2024, 15:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery community meeting, everyone is most welcome!
+Agenda/connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Welcome CodeRefinery ambassadors!
+Start:    Monday, 13 May 2024, 15:00 EEST
+End:      Monday, 13 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Community teaching workshop
+Start:    Tuesday, 21 June 2022, 13:00 EEST
+Location: Online
+Description:
+
+It's dangerous to go alone, take each other!  Remote work has
+transformed interactive teaching from something that exists in
+one room to something that can be a community event.  While
+online misses physical presence, by using the practices
+CodeRefinery has developed, we can keep it reasonable interactive
+and take advantage of a huge number of other benefits, such as
+more collaboration, more ways to learn (for different needs), and
+more large-scale interaction.
+
+This mini-workshop will try to discuss (and demonstrate) some of
+the best practices that CodeRefinery (https://coderefinery.org)
+has learned during remote teaching, and provides a hands-on way
+of getting some experience with them.  At only three hours, this
+is more of a preview and discussion than an intensive training
+event (and we hope to have a longer event sometime in mid-late
+2022).
+
+Info and registration: https://hackmd.io/@coderefinery/community-teaching-2022-summer
+
+
+----------
+Subject:  Kick-off 2022
+Start:    Thursday, 01 September 2022, 11:30 EEST
+End:      Friday, 02 September 2022, 13:00 EEST
+Location: Aalto University campus (Finland)
+Description:
+
+Details: https://hackmd.io/@coderefinery/kickoff2022
+
+
+----------
+Subject:  Python for Scicomp Hackathon
+Start:    Thursday, 01 September 2022, 11:00 EEST
+End:      Friday, 02 September 2022, 12:00 EEST
+Location: https://aalto.zoom.us/j/64696542787 and Zulip
+Description:
+
+Work together to improve the Python for Scicomp course materials.
+The winter 2022 Python for Scicomp is still fresh in our minds
+and the feedback is handy. It's easy to postpone implementing
+these to tomorrow, but tomorrow never comes and we end frantically
+updating materials a few weeks before the course.
+
+But this time it will be different! We will start with an informal
+chat and planning session on Zoom and continue to work on our
+favorite sections, or the sections we think need the most work.
+
+Everyone is welcome. You don't need have tought the course. If
+you have time to help with a few issues, your help is appreciated.
+
+
+----------
+Subject:  Installation help for everybody
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Tuesday, 12 September 2023, 15:30 EEST
+End:      Tuesday, 12 September 2023, 17:00 EEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Wednesday, 13 September 2023, 15:30 EEST
+End:      Wednesday, 13 September 2023, 17:00 EEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Tuesday, 12 September 2023, 12:30 EEST
+End:      Tuesday, 12 September 2023, 13:30 EEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Wednesday, 13 September 2023, 12:30 EEST
+End:      Wednesday, 13 September 2023, 13:30 EEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Tuesday, 12 September 2023, 14:00 EEST
+End:      Tuesday, 12 September 2023, 15:00 EEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Wednesday, 13 September 2023, 14:00 EEST
+End:      Wednesday, 13 September 2023, 15:00 EEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Welcome and introduction
+Start:    Tuesday, 19 September 2023, 10:00 EEST
+End:      Tuesday, 19 September 2023, 10:20 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 1/4
+Start:    Tuesday, 19 September 2023, 10:20 EEST
+End:      Tuesday, 19 September 2023, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 2/4
+Start:    Tuesday, 19 September 2023, 13:00 EEST
+End:      Tuesday, 19 September 2023, 14:30 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 3/4
+Start:    Wednesday, 20 September 2023, 10:00 EEST
+End:      Wednesday, 20 September 2023, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 4/4
+Start:    Wednesday, 20 September 2023, 13:00 EEST
+End:      Wednesday, 20 September 2023, 14:30 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 1/2
+Start:    Thursday, 21 September 2023, 10:00 EEST
+End:      Thursday, 21 September 2023, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 2/2
+Start:    Thursday, 21 September 2023, 13:00 EEST
+End:      Thursday, 21 September 2023, 14:30 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Reproducible research and FAIR data
+Start:    Tuesday, 26 September 2023, 10:00 EEST
+End:      Tuesday, 26 September 2023, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Social coding and open software
+Start:    Tuesday, 26 September 2023, 13:00 EEST
+End:      Tuesday, 26 September 2023, 14:30 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Documentation
+Start:    Wednesday, 27 September 2023, 10:00 EEST
+End:      Wednesday, 27 September 2023, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Jupyter
+Start:    Wednesday, 27 September 2023, 13:00 EEST
+End:      Wednesday, 27 September 2023, 14:30 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Software testing
+Start:    Thursday, 28 September 2023, 10:00 EEST
+End:      Thursday, 28 September 2023, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Modular code development
+Start:    Thursday, 28 September 2023, 13:00 EEST
+End:      Thursday, 28 September 2023, 14:30 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Concluding remarks and where to go from here
+Start:    Thursday, 28 September 2023, 14:30 EEST
+End:      Thursday, 28 September 2023, 15:00 EEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Installation help for everybody
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Tuesday, 05 March 2024, 14:30 EET
+End:      Tuesday, 05 March 2024, 16:00 EET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Thursday, 07 March 2024, 14:30 EET
+End:      Thursday, 07 March 2024, 16:00 EET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Tuesday, 05 March 2024, 11:30 EET
+End:      Tuesday, 05 March 2024, 12:30 EET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Thursday, 07 March 2024, 11:30 EET
+End:      Thursday, 07 March 2024, 12:30 EET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Tuesday, 05 March 2024, 13:00 EET
+End:      Tuesday, 05 March 2024, 14:00 EET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Thursday, 07 March 2024, 13:00 EET
+End:      Thursday, 07 March 2024, 14:00 EET
+Location: register at https://coderefinery.github.io/2024-03-12-workshop/ to get zoom link
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Welcome and introduction
+Start:    Tuesday, 12 March 2024, 10:00 EET
+End:      Tuesday, 12 March 2024, 10:20 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 1/4
+Start:    Tuesday, 12 March 2024, 10:20 EET
+End:      Tuesday, 12 March 2024, 12:00 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 2/4
+Start:    Tuesday, 12 March 2024, 13:00 EET
+End:      Tuesday, 12 March 2024, 14:30 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 3/4
+Start:    Wednesday, 13 March 2024, 10:00 EET
+End:      Wednesday, 13 March 2024, 12:00 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 4/4
+Start:    Wednesday, 13 March 2024, 13:00 EET
+End:      Wednesday, 13 March 2024, 14:30 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 1/2
+Start:    Thursday, 14 March 2024, 10:00 EET
+End:      Thursday, 14 March 2024, 12:00 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 2/2
+Start:    Thursday, 14 March 2024, 13:00 EET
+End:      Thursday, 14 March 2024, 14:30 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Reproducible research and FAIR data
+Start:    Tuesday, 19 March 2024, 10:00 EET
+End:      Tuesday, 19 March 2024, 12:00 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Social coding and open software
+Start:    Tuesday, 19 March 2024, 13:00 EET
+End:      Tuesday, 19 March 2024, 14:30 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Documentation
+Start:    Wednesday, 20 March 2024, 10:00 EET
+End:      Wednesday, 20 March 2024, 12:00 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Jupyter
+Start:    Wednesday, 20 March 2024, 13:00 EET
+End:      Wednesday, 20 March 2024, 14:30 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Software testing
+Start:    Thursday, 21 March 2024, 10:00 EET
+End:      Thursday, 21 March 2024, 12:00 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Modular code development
+Start:    Thursday, 21 March 2024, 13:00 EET
+End:      Thursday, 21 March 2024, 14:30 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Concluding remarks and where to go from here
+Start:    Thursday, 21 March 2024, 14:30 EET
+End:      Thursday, 21 March 2024, 15:00 EET
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Scientific Computing Kickstart (+HPC kickstart)
+Start:    Tuesday, 07 June 2022, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://scicomp.aalto.fi/training/scip/kickstart-summer-2022/
+
+Day 1:
+
+  This course is a general introduction to computational
+  researchers. The point is to serve as a guide to your career:
+  a map to the types of resources that are available and skills
+  you may need in your career, so that you can be prepared when
+  you need more in the future. There will also be topics related
+  to using these resources. Aalto University is used in some
+  examples, but all parts are designed to be useful no matter
+  where you are now.
+
+  This course is especially suitable to new researchers or
+  students trying to understand computational/data analysis
+  options available to them. It won’t go into anything too deep,
+  but will provide you with a good background for your next
+  steps: you will know what resources are available and know the
+  next steps to use them.
+
+Day 2-3:
+
+  Scientific Computing Kickstart is a three × half day course
+  for researchers to get started with scientific computing (day
+  1) and high-performance computing (HPC) clusters (day 2). We
+  will take you from being a new user to being competent to run
+  your code at a larger scale than you could before. (However,
+  we don’t cover application-specific matters beyond some
+  Python/R/Matlab basics or focus on the high-performance part:
+  but this is an easy next step after this course).
+
+  This course is good for any researcher who thinks they may
+  need to scale up to larger resources in the next six months,
+  in any field. Even if you don’t use computing clusters, you
+  will be better prepared to understand how computing works on
+  other systems. If you are a student, this is an investment in
+  your skills. By the end of the course you get the hints, ready
+  solutions and copy/paste examples on how to find, run and
+  monitor your applications, and manage your data. In addition
+  to how to optimize your workflow in terms of filesystem
+  traffic, memory usage etc.
+
+
+----------
+Subject:  Scientific Computing Kickstart (+HPC kickstart)
+Start:    Thursday, 09 June 2022, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://scicomp.aalto.fi/training/scip/kickstart-summer-2022/
+
+Day 1:
+
+  This course is a general introduction to computational
+  researchers. The point is to serve as a guide to your career:
+  a map to the types of resources that are available and skills
+  you may need in your career, so that you can be prepared when
+  you need more in the future. There will also be topics related
+  to using these resources. Aalto University is used in some
+  examples, but all parts are designed to be useful no matter
+  where you are now.
+
+  This course is especially suitable to new researchers or
+  students trying to understand computational/data analysis
+  options available to them. It won’t go into anything too deep,
+  but will provide you with a good background for your next
+  steps: you will know what resources are available and know the
+  next steps to use them.
+
+Day 2-3:
+
+  Scientific Computing Kickstart is a three × half day course
+  for researchers to get started with scientific computing (day
+  1) and high-performance computing (HPC) clusters (day 2). We
+  will take you from being a new user to being competent to run
+  your code at a larger scale than you could before. (However,
+  we don’t cover application-specific matters beyond some
+  Python/R/Matlab basics or focus on the high-performance part:
+  but this is an easy next step after this course).
+
+  This course is good for any researcher who thinks they may
+  need to scale up to larger resources in the next six months,
+  in any field. Even if you don’t use computing clusters, you
+  will be better prepared to understand how computing works on
+  other systems. If you are a student, this is an investment in
+  your skills. By the end of the course you get the hints, ready
+  solutions and copy/paste examples on how to find, run and
+  monitor your applications, and manage your data. In addition
+  to how to optimize your workflow in terms of filesystem
+  traffic, memory usage etc.
+
+
+----------
+Subject:  Scientific Computing Kickstart (+HPC kickstart)
+Start:    Friday, 10 June 2022, 12:00 EEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://scicomp.aalto.fi/training/scip/kickstart-summer-2022/
+
+Day 1:
+
+  This course is a general introduction to computational
+  researchers. The point is to serve as a guide to your career:
+  a map to the types of resources that are available and skills
+  you may need in your career, so that you can be prepared when
+  you need more in the future. There will also be topics related
+  to using these resources. Aalto University is used in some
+  examples, but all parts are designed to be useful no matter
+  where you are now.
+
+  This course is especially suitable to new researchers or
+  students trying to understand computational/data analysis
+  options available to them. It won’t go into anything too deep,
+  but will provide you with a good background for your next
+  steps: you will know what resources are available and know the
+  next steps to use them.
+
+Day 2-3:
+
+  Scientific Computing Kickstart is a three × half day course
+  for researchers to get started with scientific computing (day
+  1) and high-performance computing (HPC) clusters (day 2). We
+  will take you from being a new user to being competent to run
+  your code at a larger scale than you could before. (However,
+  we don’t cover application-specific matters beyond some
+  Python/R/Matlab basics or focus on the high-performance part:
+  but this is an easy next step after this course).
+
+  This course is good for any researcher who thinks they may
+  need to scale up to larger resources in the next six months,
+  in any field. Even if you don’t use computing clusters, you
+  will be better prepared to understand how computing works on
+  other systems. If you are a student, this is an investment in
+  your skills. By the end of the course you get the hints, ready
+  solutions and copy/paste examples on how to find, run and
+  monitor your applications, and manage your data. In addition
+  to how to optimize your workflow in terms of filesystem
+  traffic, memory usage etc.
+
+
+----------
+Subject: Software design for scientific computing
+Start:   Monday, 25 April 2022, 12:00 EEST
+Description:
+
+More info at: https://scicomp.aalto.fi/training/scip/software-design-2022/
+
+
+----------
+Subject: Software design for scientific computing
+Start:   Tuesday, 03 May 2022, 10:00 EEST
+Description:
+
+More info at: https://scicomp.aalto.fi/training/scip/software-design-2022/
+
+
+----------
+Subject: Software design for scientific computing
+Start:   Monday, 09 May 2022, 10:00 EEST
+Description:
+
+More info at: https://scicomp.aalto.fi/training/scip/software-design-2022/
+
+
+----------
+Subject: Hands-on Data Anonymization
+Start:   Monday, 04 April 2022, 12:00 EEST
+Description:
+
+Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
+
+
+----------
+Subject: Hands-on Data Anonymization
+Start:   Wednesday, 06 April 2022, 12:00 EEST
+Description:
+
+Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Wednesday, 20 April 2022, 12:00 EEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Thursday, 21 April 2022, 12:00 EEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Friday, 22 April 2022, 12:00 EEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Monday, 25 April 2022, 12:00 EEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Tuesday, 26 April 2022, 12:00 EEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Tuesday, 22 March 2022, 10:00 EET
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Wednesday, 23 March 2022, 10:00 EET
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Thursday, 24 March 2022, 10:00 EET
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Tuesday, 29 March 2022, 10:00 EEST
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Wednesday, 30 March 2022, 10:00 EEST
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Thursday, 31 March 2022, 10:00 EEST
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Monday, 21 March 2022, 12:00 EET
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Friday, 25 March 2022, 12:00 EET
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Monday, 28 March 2022, 12:00 EEST
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Friday, 01 April 2022, 12:00 EEST
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject:  MPI introduction
+Start:    Tuesday, 08 March 2022, 10:00 EET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  MPI introduction
+Start:    Friday, 11 March 2022, 10:00 EET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  MPI introduction
+Start:    Tuesday, 15 March 2022, 10:00 EET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  MPI introduction
+Start:    Friday, 18 March 2022, 10:00 EET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  AI for Science Bootcamp
+Start:    Tuesday, 25 June 2024, 10:00 EEST
+End:      Wednesday, 26 June 2024, 13:30 EEST
+Location: Online
+Description:
+
+Register
+
+
+
+
+
+
+Summary
+
+
+
+How can one use AI and especially deep learning in differential equations in order to train modells of physical systems? 
+
+
+
+The AI for Science Bootcamp provides a step-by-step overview of the fundamentals of deep neural networks and walks attendees through the hands-on experience of building and improving deep learning models for applications related to scientific computing and physical systems defined by differential equations.  
+
+
+
+The material will cover more advanced topics, such as physics-informed neural networks (PINNs) and operator learning and make use of tools like NVIDIA Modulus to develop and train the models. Furthermore, this online bootcamp is a hands-on learning experience where we will guide you through step-by-step instructions with teaching assistants on hand to help throughout. 
+
+
+
+Prerequisites
+
+
+
+
+Basic experience with Python and PyTorch. 
+
+
+
+We recommend basic knowledge of neural networks.
+
+
+
+No GPU programming experience is required
+
+
+
+
+Disclaimer
+
+
+
+Due to EuroCC2 regulations, we cannot except generic or private email addresses. Please use your official university or company email address. 
+
+
+
+This training is intended for users established in the European Union or a country associated with Horizon 2020. You can read more about the countries associated with Horizon2020 here https://ec.europa.eu/info/research-and-innovation/statistics/framework-programme-facts-and-figures/horizon-2020-country-profiles_e 
+
+
+
+Computing resources
+
+
+
+Attendees will have the opportunity to access a GPU cluster for the duration of the bootcamp.  
+
+
+
+Agenda
+
+
+
+Monday 24 June 2024 
+
+
+
+
+
+
+	Time (CET)Topic
+
+
+
+
+	11:00–12:00Cluster Dry Run Session
+
+
+
+
+
+
+Tuesday 25 June 2024 
+
+
+
+
+
+
+	Time (CET)Topic
+
+
+
+
+	09:00–09:15Welcome
+
+
+	09:15–09:30Connecting to a cluster
+
+
+	10:00–12:00Physics-Informed approach to an AI for Scientific application (Lecture and Lab)
+• Lab 1: Simulating Projectile Motion
+• Lab 2: Steady State Diffusion in a Composite Bar using PINNs
+
+
+	12:00-12:30Wrap up and Q&A
+
+
+	12:30-13:30LLM Projects Discussion (Optional)
+
+
+
+
+
+
+Wednesday 26 June 2024 
+
+
+
+
+
+
+	Time (CET)Topic
+
+
+
+
+	09:00–10:30Physics-Informed approach to an AI for Scientific application (Lecture and Lab)
+• Lab 3: Forecasting weather using Navier-Stokes PDE
+• Lab 4: Spring mass problem - Solving transient problems and 
+inverse problems (Optional)
+
+
+	10:30–12:15Data-driven approach to an AI for Scientific application. (Lecture and Lab)
+• Lab 1 : Solving the Darcy-Flow problem using FNO
+• Lab 2: Solving the Darcy-Flow problem using AFNO
+• Lab 3: Forecasting weather using FourCastNet
+
+
+	12:15–12:30Wrap up and Q&A
+
+
+	12:30-13:30LLM Projects Discussion (Optional)
+
+
+
+
+
+
+Organisers
+
+
+
+The organisers of the AI for Science Bootcamp are ENCCS, the High-Performance Computing Center Stuttgart (HLRS), Jülich Supercomputing Centre (JSC), Leibniz Supercomputing Centre (LRZ), Vienna Scientific Cluster (VSC), University of Donja Gorica, OpenACC organization, and NVIDIA for EuroCC Austria, EuroCC@GCS, EuroCC Montenegro, and EuroCC Sweden, all National Competence Centres for High-Performance Computing. 
+
+
+
+Registration
+
+
+
+Please register using this link https://www.openhackathons.org/s/siteevent/a0C5e000008AbEaEAK/se000315 Application Deadline:May 14, 2024
+
+
+----------
+Subject: Nordic Industry Days (in-person event)
+Start:   Monday, 02 September 2024, 13:00 EEST
+End:     Tuesday, 03 September 2024, 17:30 EEST
+Description:
+
+📍 Dansk Industri, H.C. Andersens Boulevard 18, 1553 Copenhagen
+
+
+
+
+Register now
+
+
+
+
+
+
+Join us at the Nordic Industry Days 2024 in the heart of Copenhagen to discuss the latest developments in Supercomputing, AI, and Quantum Computing and how they can boost your business model. 
+
+
+
+
+How can small businesses get access to supercomputers for free?
+
+
+
+Is supercomputing crucial to AI development?
+
+
+
+How can businesses use supercomputers to improve their services or products?
+
+
+
+
+Save costs, become competitive, and improve efficiency by harvesting the power of supercomputers in your daily routines. 
+
+
+
+Who are Nordic Industry Days for?
+
+
+
+Are you a professional or a leader in the industry, high-tech startup, and SME interested in learning about new trends, use cases, and innovation within the supercomputing and AI world? Then this event is for you! 
+
+
+
+Nordic Supercomputing Industry Days bring together speakers and companies from Denmark, Norway, Sweden, and Finland to share their experiences with supercomputers in their everyday workflows. Take part in the discussions and network with innovators during this 2-day event.  
+
+
+
+Interested in learning more about our collaboration with industry? Check here. 
+
+
+
+Registration
+
+
+
+Please register by visiting https://events.prace-ri.eu/event/1566/registrations/1130/ 
+
+
+
+Location
+
+
+
+The event will take place in Copenhagen next to the charming Tivoli Gardens, at Dansk Industri, H.C. Andersens Boulevard 18, 1553 København 
+
+
+
+Fees: The event is free of charge.However, we would like to make it possible for as many interested parties as possible to take part and not leave any places unused. Therefore, a no-show fee will be charged if you do not take part without canceling. 
+
+
+
+Organisers
+
+
+
+The Nordic Supercomputing Industry Days are organised by the National HPC Competence Centers in Denmark, Sweden, Norway, Finland, and Iceland.
+
+
+----------
+Subject: PDC Summer School 2024: Introduction to High Performance Computing
+Start:   Monday, 19 August 2024, 10:00 EEST
+End:     Friday, 23 August 2024, 18:00 EEST
+Description:
+
+https://www.pdc.kth.se/about/events/pdc-summer-school-2024-introduction-to-high-performance-computing-1.1325157

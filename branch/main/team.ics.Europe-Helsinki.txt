@@ -1,0 +1,226 @@
+
+
+----------
+Subject:  CodeRefinery Community call
+Start:    Monday, 08 April 2024, 15:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery community meeting, everyone is most welcome!
+Agenda/connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Welcome CodeRefinery ambassadors!
+Start:    Monday, 13 May 2024, 15:00 EEST
+End:      Monday, 13 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Community teaching workshop
+Start:    Tuesday, 21 June 2022, 13:00 EEST
+Location: Online
+Description:
+
+It's dangerous to go alone, take each other!  Remote work has
+transformed interactive teaching from something that exists in
+one room to something that can be a community event.  While
+online misses physical presence, by using the practices
+CodeRefinery has developed, we can keep it reasonable interactive
+and take advantage of a huge number of other benefits, such as
+more collaboration, more ways to learn (for different needs), and
+more large-scale interaction.
+
+This mini-workshop will try to discuss (and demonstrate) some of
+the best practices that CodeRefinery (https://coderefinery.org)
+has learned during remote teaching, and provides a hands-on way
+of getting some experience with them.  At only three hours, this
+is more of a preview and discussion than an intensive training
+event (and we hope to have a longer event sometime in mid-late
+2022).
+
+Info and registration: https://hackmd.io/@coderefinery/community-teaching-2022-summer
+
+
+----------
+Subject:  Kick-off 2022
+Start:    Thursday, 01 September 2022, 11:30 EEST
+End:      Friday, 02 September 2022, 13:00 EEST
+Location: Aalto University campus (Finland)
+Description:
+
+Details: https://hackmd.io/@coderefinery/kickoff2022
+
+
+----------
+Subject:  Python for Scicomp Hackathon
+Start:    Thursday, 01 September 2022, 11:00 EEST
+End:      Friday, 02 September 2022, 12:00 EEST
+Location: https://aalto.zoom.us/j/64696542787 and Zulip
+Description:
+
+Work together to improve the Python for Scicomp course materials.
+The winter 2022 Python for Scicomp is still fresh in our minds
+and the feedback is handy. It's easy to postpone implementing
+these to tomorrow, but tomorrow never comes and we end frantically
+updating materials a few weeks before the course.
+
+But this time it will be different! We will start with an informal
+chat and planning session on Zoom and continue to work on our
+favorite sections, or the sections we think need the most work.
+
+Everyone is welcome. You don't need have tought the course. If
+you have time to help with a few issues, your help is appreciated.
+
+
+----------
+Subject:  General CodeRefinery get-togther
+Start:    Monday, 17 June 2024, 15:00 EEST
+End:      Monday, 17 June 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Coderefinery in half a day format
+Start:    Monday, 10 June 2024, 15:00 EEST
+End:      Monday, 10 June 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  The future of the CodeRefinery project
+Start:    Monday, 03 June 2024, 15:00 EEST
+End:      Monday, 03 June 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  The CodeRefinery chat - a home for the community
+Start:    Monday, 27 May 2024, 15:00 EEST
+End:      Monday, 27 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Welcome CodeRefinery ambassadors!
+Start:    Monday, 13 May 2024, 15:00 EEST
+End:      Monday, 13 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Planning the autumn CodeRefinery workshop
+Start:    Monday, 06 May 2024, 15:00 EEST
+End:      Monday, 06 May 2024, 15:30 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Discussing CodeRefinery future
+Start:    Tuesday, 23 January 2024, 14:00 EET
+End:      Tuesday, 23 January 2024, 15:00 EET
+Location: https://uit.zoom.us/j/62141400945
+Description:
+
+Details: https://hackmd.io/@coderefinery/cr-future-ideas
+
+
+----------
+Subject:  CodeRefinery co-working session
+Start:    Monday, 27 May 2024, 16:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery co-working session
+
+Come to work on CodeRefinery tasks together, ask about open and urgent tasks or
+discuss new task ideas.
+
+Task board: https://github.com/orgs/coderefinery/projects/7
+Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  Improving Workshop Registration Online Hackathon
+Start:    Tuesday, 03 May 2022, 14:15 EEST
+End:      Tuesday, 03 May 2022, 17:00 EEST
+Location: https://uit.zoom.us/j/62141400945
+Description:
+
+Details: https://hackmd.io/@coderefinery/hackathon-workshop-registration
+
+If you can only participate some of the time, the first hour is perhaps the most important so that we get a broad input.
+
+
+----------
+Subject:  Measuring Impact of CodeRefinery Workshops Online Hackathon
+Start:    Wednesday, 18 May 2022, 10:00 EEST
+End:      Wednesday, 18 May 2022, 13:00 EEST
+Location: https://uit.zoom.us/j/62141400945
+Description:
+
+Details: https://hackmd.io/@coderefinery/hackathon-measure-impact
+
+If you can only participate some of the time, the first hour is perhaps the most important so that we get a broad input.
+
+
+----------
+Subject:  NeIC All-Hands Meeting
+Start:    Monday, 23 January 2023, 10:00 EET
+End:      Thursday, 26 January 2023, 14:00 EET
+Location: Kvitfjell (Norway)
+Description:
+
+Details: Agenda/activities and event page yet to be set up.
+
+
+----------
+Subject:  Planning Sept 2023 workshop: big picture, scope, format, changes
+Start:    Friday, 16 June 2023, 14:00 EEST
+End:      Friday, 16 June 2023, 15:00 EEST
+Location: https://uit.zoom.us/j/65782633409
+Description:
+
+Details: Deciding how we want the workshop to be. This is not yet about self-assigning tasks.
+
+
+----------
+Subject:  Planning Sept 2023 workshop: registration process
+Start:    Friday, 16 June 2023, 15:00 EEST
+End:      Friday, 16 June 2023, 16:00 EEST
+Location: https://uit.zoom.us/j/65782633409
+Description:
+
+Details: Deciding how we want the registration to be.
+
+
+----------
+Subject:  Online writing retreat
+Start:    Wednesday, 23 August 2023, 10:30 EEST
+End:      Wednesday, 23 August 2023, 16:00 EEST
+Location: https://hackmd.io/@coderefinery/writing-retreat
+Description:
+
+Details: Lesson development and any other collaborative writing we want to do or discuss.

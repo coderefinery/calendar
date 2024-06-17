@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Installation help for everybody
+UID:6936b615-9a31-45a8-8035-6843fa30287c@6936.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240305T133000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240305T150000
+SUMMARY:Installation help for everybody
+UID:28cf68a0-4d94-444e-9844-481e5dc01481@28cf.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240307T133000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240307T150000
+SUMMARY:Installation help for everybody
+UID:a8bf9c34-919c-4e73-9fe1-ba90e6d9232a@a8bf.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On-boarding for team leaders leading groups over video
+UID:dd72078d-3fca-4ffe-ab8c-4c809e0829fb@dd72.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240305T103000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240305T113000
+SUMMARY:On-boarding for team leaders leading groups over video
+UID:b5c00435-4fac-4ba2-ae2e-880c99c685a1@b5c0.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240307T103000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240307T113000
+SUMMARY:On-boarding for team leaders leading groups over video
+UID:cb37715f-af91-4479-b0e7-74d3c854097d@cb37.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On-boarding for team leaders leading in-person teams
+UID:4dd15faa-8931-4527-93fd-2eb6f4d9cbad@4dd1.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240305T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240305T130000
+SUMMARY:On-boarding for team leaders leading in-person teams
+UID:846ddf42-aeeb-416a-960f-0e0ac486786a@846d.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240307T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240307T130000
+SUMMARY:On-boarding for team leaders leading in-person teams
+UID:0a4707a3-5dd9-4ebc-8d1a-cda1e733fd86@0a47.org
+LOCATION:register at https://coderefinery.github.io/2024-03-12-workshop/ to
+  get zoom link
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+UID:daee510a-9a8c-4e06-985b-6acae4d7912a@daee.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240312T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240312T092000
+SUMMARY:Welcome and introduction
+UID:74a91c23-8130-438b-8562-601a29b99c17@74a9.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240312T092000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240312T110000
+SUMMARY:Introduction to version control - part 1/4
+UID:08cd0ebc-8eca-426c-a8e5-ddcb0afbae4c@08cd.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240312T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240312T133000
+SUMMARY:Introduction to version control - part 2/4
+UID:ece264ea-6124-4f71-8a42-5caa5362d083@ece2.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240313T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240313T110000
+SUMMARY:Introduction to version control - part 3/4
+UID:d9e2c249-4b38-49f1-b476-73c6c03d7301@d9e2.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240313T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240313T133000
+SUMMARY:Introduction to version control - part 4/4
+UID:976bb34d-4ca2-4638-a6f7-d3d6ddc1ae06@976b.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240314T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240314T110000
+SUMMARY:Collaborative distributed version control - part 1/2
+UID:66ceed82-e51e-4d76-a31a-13c743c859a7@66ce.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240314T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240314T133000
+SUMMARY:Collaborative distributed version control - part 2/2
+UID:1b6f237d-2e89-4392-83ce-5aa7606daf33@1b6f.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240319T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240319T110000
+SUMMARY:Reproducible research and FAIR data
+UID:5e919be7-6334-406c-a109-15ad0d225c43@5e91.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240319T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240319T133000
+SUMMARY:Social coding and open software
+UID:c61c048b-11ed-47a3-a39a-f581ee184922@c61c.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240320T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240320T110000
+SUMMARY:Documentation
+UID:0783f937-2660-459a-99fe-4ed4d23e6e8e@0783.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240320T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240320T133000
+SUMMARY:Jupyter
+UID:746d14d6-4a5b-4a74-83e6-71d144d583f8@746d.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240321T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240321T110000
+SUMMARY:Software testing
+UID:25fefe16-40e7-43bc-8383-2f0436175c56@25fe.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240321T120000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240321T133000
+SUMMARY:Modular code development
+UID:afc77476-4c1e-45ae-86f5-3f51168d1654@afc7.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240321T133000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240321T140000
+SUMMARY:Concluding remarks and where to go from here
+UID:3c10b55d-5393-4e15-8239-efc60ebdde78@3c10.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20240617T130243Z
+END:VEVENT
+END:VCALENDAR

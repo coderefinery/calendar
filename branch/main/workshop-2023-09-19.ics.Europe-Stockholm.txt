@@ -1,0 +1,156 @@
+
+
+----------
+Subject:  Installation help for everybody
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Tuesday, 12 September 2023, 14:30 CEST
+End:      Tuesday, 12 September 2023, 16:00 CEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  Installation help for everybody
+Start:    Wednesday, 13 September 2023, 14:30 CEST
+End:      Wednesday, 13 September 2023, 16:00 CEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Tuesday, 12 September 2023, 11:30 CEST
+End:      Tuesday, 12 September 2023, 12:30 CEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading groups over video
+Start:    Wednesday, 13 September 2023, 11:30 CEST
+End:      Wednesday, 13 September 2023, 12:30 CEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Tuesday, 12 September 2023, 13:00 CEST
+End:      Tuesday, 12 September 2023, 14:00 CEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+
+
+----------
+Subject:  On-boarding for team leaders leading in-person teams
+Start:    Wednesday, 13 September 2023, 13:00 CEST
+End:      Wednesday, 13 September 2023, 14:00 CEST
+Location: register at https://coderefinery.github.io/2023-09-19-workshop/ to get zoom link
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Welcome and introduction
+Start:    Tuesday, 19 September 2023, 09:00 CEST
+End:      Tuesday, 19 September 2023, 09:20 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 1/4
+Start:    Tuesday, 19 September 2023, 09:20 CEST
+End:      Tuesday, 19 September 2023, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 2/4
+Start:    Tuesday, 19 September 2023, 12:00 CEST
+End:      Tuesday, 19 September 2023, 13:30 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 3/4
+Start:    Wednesday, 20 September 2023, 09:00 CEST
+End:      Wednesday, 20 September 2023, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Introduction to version control - part 4/4
+Start:    Wednesday, 20 September 2023, 12:00 CEST
+End:      Wednesday, 20 September 2023, 13:30 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 1/2
+Start:    Thursday, 21 September 2023, 09:00 CEST
+End:      Thursday, 21 September 2023, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Collaborative distributed version control - part 2/2
+Start:    Thursday, 21 September 2023, 12:00 CEST
+End:      Thursday, 21 September 2023, 13:30 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Reproducible research and FAIR data
+Start:    Tuesday, 26 September 2023, 09:00 CEST
+End:      Tuesday, 26 September 2023, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Social coding and open software
+Start:    Tuesday, 26 September 2023, 12:00 CEST
+End:      Tuesday, 26 September 2023, 13:30 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Documentation
+Start:    Wednesday, 27 September 2023, 09:00 CEST
+End:      Wednesday, 27 September 2023, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Jupyter
+Start:    Wednesday, 27 September 2023, 12:00 CEST
+End:      Wednesday, 27 September 2023, 13:30 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Software testing
+Start:    Thursday, 28 September 2023, 09:00 CEST
+End:      Thursday, 28 September 2023, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Modular code development
+Start:    Thursday, 28 September 2023, 12:00 CEST
+End:      Thursday, 28 September 2023, 13:30 CEST
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Concluding remarks and where to go from here
+Start:    Thursday, 28 September 2023, 13:30 CEST
+End:      Thursday, 28 September 2023, 14:00 CEST
+Location: https://twitch.tv/coderefinery
