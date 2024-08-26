@@ -25,9 +25,33 @@ events:
       interval: {days: 1}
       until: 2024-08-29 16:00:00
 
+  # CR September 2024 workshop - on-boarding
+  - summary: "CodeRefinery workshop (Sep 2024) - onboarding"
+    location: https://coderefinery.github.io/2024-09-10-workshop/
+    timezone: Europe/Stockholm
+    begin: 2024-08-28 14:00:00
+    duration: {hours: 1}
+  - summary: "CodeRefinery workshop (Sep 2024) - onboarding"
+    location: https://coderefinery.github.io/2024-09-10-workshop/
+    timezone: Europe/Stockholm
+    begin: 2024-08-30 10:00:00
+    duration: {hours: 1}
+
+  # CR September 2024 workshop - install help
+  - summary: "CodeRefinery workshop (Sep 2024) - install help"
+    location: https://coderefinery.github.io/2024-09-10-workshop/
+    timezone: Europe/Stockholm
+    begin: 2024-09-04 12:00:00
+    duration: {hours: 1}
+  - summary: "CodeRefinery workshop (Sep 2024) - install help"
+    location: https://coderefinery.github.io/2024-09-10-workshop/
+    timezone: Europe/Stockholm
+    begin: 2024-09-05 12:00:00
+    duration: {hours: 1}
+
   # CR September 2024 workshop - lessons
   - &cr-2024-sep
-    summary: CodeRefinery workshop, September 2024
+  - summary: "CodeRefinery workshop (Sep 2024) - lessons"
     location: https://coderefinery.github.io/2024-09-10-workshop/
     timezone: Europe/Stockholm
     begin: 2024-09-10 09:00:00
@@ -42,15 +66,15 @@ events:
       until: 2024-09-19 14:00:00
 
   # CR September 2024 workshop - BYOC sessions
-  - summary: "Bring your own code session - CodeRefinery workshop, September 2024"
+  - summary: "CodeRefinery workshop (Sep 2024) - bring your own code session"
     location: https://coderefinery.github.io/2024-09-10-workshop/
     timezone: Europe/Stockholm
-    begin: 2023-10-22 15:00:00
+    begin: 2024-10-22 15:00:00
     duration: {hours: 2}
-  - summary: "Bring your own code session - CodeRefinery workshop, September 2024"
-    location: https://coderefinery.github.io/2023-09-19-workshop/
+  - summary: "CodeRefinery workshop (Sep 2024) - bring your own code session"
+    location: https://coderefinery.github.io/2024-09-10-workshop/
     timezone: Europe/Stockholm
-    begin: 2023-10-29 12:00:00
+    begin: 2024-10-29 12:00:00
     duration: {hours: 2}
 
   # October 2024 Build Systems Hackathon (two segments since it is split over two weeks)
