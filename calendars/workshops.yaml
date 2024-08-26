@@ -132,7 +132,7 @@ events:
 
   # CR train the trainer 2024 workshop
   - &cr-ttt-2024
-    summary: "Preliminary reservation: CodeRefinery train the trainer workshop, 2024"
+    summary: "CodeRefinery train-the-trainer workshop, 2024"
     location: TBD
     timezone: Europe/Stockholm
     begin: 2024-08-13 09:00:00
