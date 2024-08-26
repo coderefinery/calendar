@@ -69,7 +69,7 @@ events:
   - summary: "CodeRefinery workshop (Sep 2024) - bring your own code session"
     location: https://coderefinery.github.io/2024-09-10-workshop/
     timezone: Europe/Stockholm
-    begin: 2024-10-22 15:00:00
+    begin: 2024-10-22 14:00:00
     duration: {hours: 2}
   - summary: "CodeRefinery workshop (Sep 2024) - bring your own code session"
     location: https://coderefinery.github.io/2024-09-10-workshop/
