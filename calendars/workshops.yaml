@@ -114,7 +114,7 @@ events:
       interval: {days: 1}
       until: 2024-10-17 16:00:00
 
-  # CR September 2024 workshop
+  # CR September 2024 workshop - lessons
   - &cr-2024-sep
     summary: CodeRefinery workshop, September 2024
     location: https://coderefinery.github.io/2024-09-10-workshop/
@@ -130,10 +130,26 @@ events:
       interval: {days: 1}
       until: 2024-09-19 14:00:00
 
+  # CR September 2024 workshop - BYOC session 1
+  - &byoc-cr-2024-sep
+    summary: "Bring your own code session - CodeRefinery workshop, September 2024"
+    location: https://coderefinery.github.io/2024-09-10-workshop/
+    timezone: Europe/Stockholm
+    begin: 2023-10-22 15:00:00
+    duration: {hours: 2, minutes: 00}
+
+  # CR September 2024 workshop - BYOC session 2
+  - &byoc2-cr-2024-sep
+    summary: "Bring your own code session - CodeRefinery workshop, September 2024"
+    location: https://coderefinery.github.io/2023-09-19-workshop/
+    timezone: Europe/Stockholm
+    begin: 2023-10-29 12:00:00
+    duration: {hours: 2, minutes: 00}
+
   # CR train the trainer 2024 workshop
   - &cr-ttt-2024
     summary: "CodeRefinery train-the-trainer workshop, 2024"
-    location: TBD
+    location: https://coderefinery.github.io/train-the-trainer/
     timezone: Europe/Stockholm
     begin: 2024-08-13 09:00:00
     duration: {hours: 3}
