@@ -51,7 +51,7 @@ events:
 
   # CR September 2024 workshop - lessons
   - &cr-2024-sep
-  - summary: "CodeRefinery workshop (Sep 2024) - lessons"
+    summary: "CodeRefinery workshop (Sep 2024) - lessons"
     location: https://coderefinery.github.io/2024-09-10-workshop/
     timezone: Europe/Stockholm
     begin: 2024-09-10 09:00:00
