@@ -7,54 +7,42 @@ include:
   - community.yaml
 
 events:
-  - summary: General CodeRefinery get-togther
+  - summary: "CodeRefinery team meeting - topic: TBD"
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-06-17 14:00:00
-    end: 2024-06-17 14:30:00
+    begin: 2024-09-30 14:00:00
+    duration: { minutes: 30 }
+    description: "Details: https://hackmd.io/@coderefinery/team-meeting"
+    repeat:
+      interval: {weeks: 1}
+      until: 2024-12-31
+
+  - summary: "Feedback and debriefing for the CodeRefinery September workshop"
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2024-09-23 14:00:00
+    end: 2024-09-23 14:30:00
     description: |
       Details: https://hackmd.io/@coderefinery/team-meeting
 
-  - summary: Coderefinery in half a day format
+  - summary: "CodeRefinery September workshop week 2 preparation"
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-06-10 14:00:00
-    end: 2024-06-10 14:30:00
+    begin: 2024-09-16 14:00:00
+    end: 2024-09-16 14:30:00
     description: |
       Details: https://hackmd.io/@coderefinery/team-meeting
 
-  - summary: The future of the CodeRefinery project
+  - summary: "CodeRefinery September workshop week 1 preparation"
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-06-03 14:00:00
-    end: 2024-06-03 14:30:00
+    begin: 2024-09-09 14:00:00
+    end: 2024-09-09 14:30:00
     description: |
       Details: https://hackmd.io/@coderefinery/team-meeting
 
-  - summary: The CodeRefinery chat - a home for the community
+  - summary: "CodeRefinery September workshop preparation"
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-05-27 14:00:00
-    end: 2024-05-27 14:30:00
+    begin: 2024-09-02 14:00:00
+    end: 2024-09-02 14:30:00
     description: |
       Details: https://hackmd.io/@coderefinery/team-meeting
-
-  - summary: Welcome CodeRefinery ambassadors!
-    location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-05-13 14:00:00
-    end: 2024-05-13 14:30:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting
-
-  - summary: Planning the autumn CodeRefinery workshop
-    location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-05-06 14:00:00
-    end: 2024-05-06 14:30:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting
-
-  - summary: Discussing CodeRefinery future
-    location: https://uit.zoom.us/j/62141400945
-    begin: 2024-01-23 13:00:00
-    end: 2024-01-23 14:00:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/cr-future-ideas
 
   - summary: CodeRefinery co-working session
     location: https://hackmd.io/@coderefinery/team-meeting
@@ -71,54 +59,3 @@ events:
     repeat:
       interval: {weeks: 1}
       until: 2024-12-31
-
-  # Online Hackathon about Improving Workshop Registration May 2022
-  - summary: Improving Workshop Registration Online Hackathon
-    location: https://uit.zoom.us/j/62141400945
-    begin: 2022-05-03 13:15:00
-    end: 2022-05-03 16:00:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/hackathon-workshop-registration
-
-      If you can only participate some of the time, the first hour is perhaps the most important so that we get a broad input.
-
-  # Online Hackathon about Measuring the Impact of CodeRefinery Workshops May 2022
-  - summary: Measuring Impact of CodeRefinery Workshops Online Hackathon
-    location: https://uit.zoom.us/j/62141400945
-    begin: 2022-05-18 09:00:00
-    end: 2022-05-18 12:00:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/hackathon-measure-impact
-
-      If you can only participate some of the time, the first hour is perhaps the most important so that we get a broad input.
-
-  - summary: NeIC All-Hands Meeting
-    location: Kvitfjell (Norway)
-    begin: 2023-01-23 09:00:00
-    end: 2023-01-26 13:00:00
-    description: |
-      Details: Agenda/activities and event page yet to be set up.
-
-  - summary: "Planning Sept 2023 workshop: big picture, scope, format, changes"
-    location: https://uit.zoom.us/j/65782633409
-    begin: 2023-06-16 13:00:00
-    end: 2023-06-16 14:00:00
-    description: |
-      Details: Deciding how we want the workshop to be. This is not yet about self-assigning tasks.
-
-  - summary: "Planning Sept 2023 workshop: registration process"
-    location: https://uit.zoom.us/j/65782633409
-    begin: 2023-06-16 14:00:00
-    end: 2023-06-16 15:00:00
-    description: |
-      Details: Deciding how we want the registration to be.
-
-  - summary: "Online writing retreat"
-    location: https://hackmd.io/@coderefinery/writing-retreat
-    begin: 2023-08-23 9:30:00
-    end: 2023-08-23 15:00:00
-    repeat:
-      interval: { days: 1 }
-      until: 2023-08-26
-    description: |
-      Details: Lesson development and any other collaborative writing we want to do or discuss.
