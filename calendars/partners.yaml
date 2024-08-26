@@ -3,7 +3,7 @@ description: |
   All workshop and training events by partners of CodeRefinery.
 include:
   # Aalto SciComp
-  - https://aaltoscicomp.github.io/public-calendar/training.ics  
+  - https://aaltoscicomp.github.io/public-calendar/training.ics
   # ENCCS
   # 2024-08-26: removing, seems to break the build.  Fix later
   #- https://enccs.se/events-at-enccs/list/?shortcode=5210815c&ical=1

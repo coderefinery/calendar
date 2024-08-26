@@ -20,7 +20,7 @@ events:
     begin: 2024-05-13 14:00:00
     end: 2024-05-13 14:30:00
     description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting 
+      Details: https://hackmd.io/@coderefinery/team-meeting
 
   - summary: Community teaching workshop
     description: |
@@ -54,7 +54,7 @@ events:
     end: 2022-09-02 12:00:00
     description: |
       Details: https://hackmd.io/@coderefinery/kickoff2022
-  
+
   - summary: Python for Scicomp Hackathon
     description: |
       Work together to improve the Python for Scicomp course materials.
@@ -66,7 +66,7 @@ events:
       But this time it will be different! We will start with an informal
       chat and planning session on Zoom and continue to work on our
       favorite sections, or the sections we think need the most work.
-      
+
       Everyone is welcome. You don't need have tought the course. If
       you have time to help with a few issues, your help is appreciated.
     location: https://aalto.zoom.us/j/64696542787 and Zulip
