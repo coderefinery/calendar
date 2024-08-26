@@ -1,0 +1,773 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T030000
+TZNAME:EEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T040000
+TZNAME:EET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Helsinki
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240408T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:45257b43-33e4-44f1-a9ac-e3ceea054363@4525.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\nAgenda/connection details: https://hackmd.io/@coderefinery/team-
+ meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240513T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240513T143000
+SUMMARY:Welcome CodeRefinery ambassadors!
+UID:183fc6d6-5527-46c7-b14f-43dc43881f95@183f.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220621T130000
+DURATION:PT3H
+SUMMARY:Community teaching workshop
+UID:27626d1e-52a1-42fb-b899-9632460ec445@2762.org
+DESCRIPTION:It's dangerous to go alone\, take each other!  Remote work 
+ has\ntransformed interactive teaching from something that exists in\none 
+ room to something that can be a community event.  While\nonline misses 
+ physical presence\, by using the practices\nCodeRefinery has developed\, 
+ we can keep it reasonable interactive\nand take advantage of a huge number
+  of other benefits\, such as\nmore collaboration\, more ways to learn (for
+  different needs)\, and\nmore large-scale interaction.\n\nThis mini-
+ workshop will try to discuss (and demonstrate) some of\nthe best practices
+  that CodeRefinery (https://coderefinery.org)\nhas learned during remote 
+ teaching\, and provides a hands-on way\nof getting some experience with 
+ them.  At only three hours\, this\nis more of a preview and discussion 
+ than an intensive training\nevent (and we hope to have a longer event 
+ sometime in mid-late\n2022).\n\nInfo and registration: 
+ https://hackmd.io/@coderefinery/community-teaching-2022-summer
+LOCATION:Online
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220901T103000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220902T120000
+SUMMARY:Kick-off 2022
+UID:3538c54f-5021-49cc-ae05-1b091175cfb3@3538.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/kickoff2022
+LOCATION:Aalto University campus (Finland)
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220901T110000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20220902T120000
+SUMMARY:Python for Scicomp Hackathon
+UID:92ec387f-5c4b-4f7f-92d6-4ba85d49a293@92ec.org
+DESCRIPTION:Work together to improve the Python for Scicomp course 
+ materials.\nThe winter 2022 Python for Scicomp is still fresh in our 
+ minds\nand the feedback is handy. It's easy to postpone 
+ implementing\nthese to tomorrow\, but tomorrow never comes and we end 
+ frantically\nupdating materials a few weeks before the course.\n\nBut this
+  time it will be different! We will start with an informal\nchat and 
+ planning session on Zoom and continue to work on our\nfavorite sections\, 
+ or the sections we think need the most work.\n\nEveryone is welcome. You 
+ don't need have tought the course. If\nyou have time to help with a few 
+ issues\, your help is appreciated.
+LOCATION:https://aalto.zoom.us/j/64696542787 and Zulip
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240930T140000
+DURATION:PT30M
+SUMMARY:CodeRefinery team meeting - topic: TBD
+UID:38f94c9b-e6fb-4323-b2b9-d8f207c10b95@38f9.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=WEEKLY;UNTIL=20241231T000000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240923T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240923T143000
+SUMMARY:Feedback and debriefing for the CodeRefinery September workshop
+UID:7a7aeb6e-f4ce-48ba-824c-5393fee49d11@7a7a.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240916T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240916T143000
+SUMMARY:CodeRefinery September workshop week 2 preparation
+UID:54d7e6fc-d403-4881-98b1-7f70f49713b3@54d7.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240909T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240909T143000
+SUMMARY:CodeRefinery September workshop week 1 preparation
+UID:270d486b-b8c1-4bfc-84b1-0c54627db7b7@270d.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240902T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240902T143000
+SUMMARY:CodeRefinery September workshop preparation
+UID:e838d37d-0dfa-4adf-843d-0f3921c5ce6c@e838.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240527T150000
+DURATION:PT1H
+SUMMARY:CodeRefinery co-working session
+UID:c514c7a8-80e2-4546-b917-666036c29d59@c514.org
+DESCRIPTION:CodeRefinery co-working session\n\nCome to work on CodeRefinery
+  tasks together\, ask about open and urgent tasks or\ndiscuss new task 
+ ideas.\n\nTask board: 
+ https://github.com/orgs/coderefinery/projects/7\nConnection details: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=WEEKLY;UNTIL=20241231T000000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240813T090000
+DURATION:PT3H
+SUMMARY:CodeRefinery train-the-trainer workshop\, 2024
+UID:de8d80dc-fb95-4d98-b356-59cfd16eaf0e@de8d.org
+LOCATION:https://coderefinery.github.io/train-the-trainer/
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=WEEKLY;UNTIL=20240903T120000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240827T090000
+DURATION:PT7H
+SUMMARY:CodeRefinery workshop\, Chalmers\, Gothenburg\, August 2024
+UID:124f835e-1842-4fd2-b4ce-ae0135aca7fc@124f.org
+LOCATION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=DAILY;UNTIL=20240829T160000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240828T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery workshop (Sep 2024) - onboarding
+UID:7903b6d8-897c-4258-9dbd-ee1e824183c6@7903.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240830T100000
+DURATION:PT1H
+SUMMARY:CodeRefinery workshop (Sep 2024) - onboarding
+UID:d26c7380-8fc7-476a-a888-64127b473d20@d26c.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240904T120000
+DURATION:PT1H
+SUMMARY:CodeRefinery workshop (Sep 2024) - install help
+UID:f59c50ce-e60c-4a2d-a3ce-81058347850a@f59c.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240905T120000
+DURATION:PT1H
+SUMMARY:CodeRefinery workshop (Sep 2024) - install help
+UID:eb3ea07a-85ff-4bd2-a758-41fb5818ef5c@eb3e.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240910T090000
+DURATION:PT4H30M
+SUMMARY:CodeRefinery workshop (Sep 2024) - lessons
+UID:5c953145-2a13-4421-847c-d04862cd5358@5c95.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=DAILY;UNTIL=20240912T133000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240917T090000
+DURATION:PT4H30M
+SUMMARY:CodeRefinery workshop (Sep 2024) - lessons
+UID:7e6316c6-4799-4891-aeb2-b4d11b73e86d@7e63.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=DAILY;UNTIL=20240919T140000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20241022T140000
+DURATION:PT2H
+SUMMARY:CodeRefinery workshop (Sep 2024) - bring your own code session
+UID:d97ad01a-2c10-4f28-9219-56de7f7fc1e6@d97a.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20241029T120000
+DURATION:PT2H
+SUMMARY:CodeRefinery workshop (Sep 2024) - bring your own code session
+UID:53f9025a-fb4e-4d27-8d4d-952d0d9a03a8@53f9.org
+LOCATION:https://coderefinery.github.io/2024-09-10-workshop/
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20241008T085000
+DURATION:PT3H10M
+SUMMARY:Build Systems Hackathon\, October 2024
+UID:c4b13e90-14a6-4cbc-9466-dd53ecd6937f@c4b1.org
+LOCATION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=DAILY;UNTIL=20241010T120000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20241015T090000
+DURATION:PT7H
+SUMMARY:Build Systems Hackathon\, October 2024
+UID:3c640385-fca0-48b0-a458-92af77d0a47e@3c64.org
+LOCATION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20240826T162033Z
+RRULE:FREQ=DAILY;UNTIL=20241017T160000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240408T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:21a4834d-9974-4cff-b769-f8ccb5c4c37d@21a4.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\nAgenda/connection details: https://hackmd.io/@coderefinery/team-
+ meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240513T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240513T143000
+SUMMARY:Welcome CodeRefinery ambassadors!
+UID:647f25b2-2935-4c35-9eb5-73ef6a5664a0@647f.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220621T130000
+DURATION:PT3H
+SUMMARY:Community teaching workshop
+UID:e957ec43-4636-4487-81ad-3a0c1c0e4afe@e957.org
+DESCRIPTION:It's dangerous to go alone\, take each other!  Remote work 
+ has\ntransformed interactive teaching from something that exists in\none 
+ room to something that can be a community event.  While\nonline misses 
+ physical presence\, by using the practices\nCodeRefinery has developed\, 
+ we can keep it reasonable interactive\nand take advantage of a huge number
+  of other benefits\, such as\nmore collaboration\, more ways to learn (for
+  different needs)\, and\nmore large-scale interaction.\n\nThis mini-
+ workshop will try to discuss (and demonstrate) some of\nthe best practices
+  that CodeRefinery (https://coderefinery.org)\nhas learned during remote 
+ teaching\, and provides a hands-on way\nof getting some experience with 
+ them.  At only three hours\, this\nis more of a preview and discussion 
+ than an intensive training\nevent (and we hope to have a longer event 
+ sometime in mid-late\n2022).\n\nInfo and registration: 
+ https://hackmd.io/@coderefinery/community-teaching-2022-summer
+LOCATION:Online
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220901T103000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220902T120000
+SUMMARY:Kick-off 2022
+UID:7fc60c59-b052-45d6-ae98-51c40e113b29@7fc6.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/kickoff2022
+LOCATION:Aalto University campus (Finland)
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220901T110000
+DTEND;TZID=/ics.py/2020.1/Europe/Helsinki:20220902T120000
+SUMMARY:Python for Scicomp Hackathon
+UID:ce052edb-600b-4fed-b65d-410638791c5d@ce05.org
+DESCRIPTION:Work together to improve the Python for Scicomp course 
+ materials.\nThe winter 2022 Python for Scicomp is still fresh in our 
+ minds\nand the feedback is handy. It's easy to postpone 
+ implementing\nthese to tomorrow\, but tomorrow never comes and we end 
+ frantically\nupdating materials a few weeks before the course.\n\nBut this
+  time it will be different! We will start with an informal\nchat and 
+ planning session on Zoom and continue to work on our\nfavorite sections\, 
+ or the sections we think need the most work.\n\nEveryone is welcome. You 
+ don't need have tought the course. If\nyou have time to help with a few 
+ issues\, your help is appreciated.
+LOCATION:https://aalto.zoom.us/j/64696542787 and Zulip
+DTSTAMP:20240826T162033Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220607T120000
+DURATION:PT4H
+SUMMARY:Scientific Computing Kickstart (+HPC kickstart)
+UID:e0c03c28-3350-4c3f-b60f-6bf073455626@e0c0.org
+DESCRIPTION:https://scicomp.aalto.fi/training/scip/kickstart-
+ summer-2022/\n\nDay 1:\n\n  This course is a general introduction to 
+ computational\n  researchers. The point is to serve as a guide to your 
+ career:\n  a map to the types of resources that are available and skills\n
+   you may need in your career\, so that you can be prepared when\n  you 
+ need more in the future. There will also be topics related\n  to using 
+ these resources. Aalto University is used in some\n  examples\, but all 
+ parts are designed to be useful no matter\n  where you are now.\n\n  This 
+ course is especially suitable to new researchers or\n  students trying to 
+ understand computational/data analysis\n  options available to them. It 
+ won’t go into anything too deep\,\n  but will provide you with a good 
+ background for your next\n  steps: you will know what resources are 
+ available and know the\n  next steps to use them.\n\nDay 2-3:\n\n  
+ Scientific Computing Kickstart is a three × half day course\n  for 
+ researchers to get started with scientific computing (day\n  1) and high-
+ performance computing (HPC) clusters (day 2). We\n  will take you from 
+ being a new user to being competent to run\n  your code at a larger scale 
+ than you could before. (However\,\n  we don’t cover application-specific 
+ matters beyond some\n  Python/R/Matlab basics or focus on the high-
+ performance part:\n  but this is an easy next step after this course).\n\n
+   This course is good for any researcher who thinks they may\n  need to 
+ scale up to larger resources in the next six months\,\n  in any field. 
+ Even if you don’t use computing clusters\, you\n  will be better prepared 
+ to understand how computing works on\n  other systems. If you are a 
+ student\, this is an investment in\n  your skills. By the end of the 
+ course you get the hints\, ready\n  solutions and copy/paste examples on 
+ how to find\, run and\n  monitor your applications\, and manage your data.
+  In addition\n  to how to optimize your workflow in terms of filesystem\n
+   traffic\, memory usage etc.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220609T120000
+DURATION:PT4H
+SUMMARY:Scientific Computing Kickstart (+HPC kickstart)
+UID:bf20e576-061f-4437-ae5c-357fe2a49115@bf20.org
+DESCRIPTION:https://scicomp.aalto.fi/training/scip/kickstart-
+ summer-2022/\n\nDay 1:\n\n  This course is a general introduction to 
+ computational\n  researchers. The point is to serve as a guide to your 
+ career:\n  a map to the types of resources that are available and skills\n
+   you may need in your career\, so that you can be prepared when\n  you 
+ need more in the future. There will also be topics related\n  to using 
+ these resources. Aalto University is used in some\n  examples\, but all 
+ parts are designed to be useful no matter\n  where you are now.\n\n  This 
+ course is especially suitable to new researchers or\n  students trying to 
+ understand computational/data analysis\n  options available to them. It 
+ won’t go into anything too deep\,\n  but will provide you with a good 
+ background for your next\n  steps: you will know what resources are 
+ available and know the\n  next steps to use them.\n\nDay 2-3:\n\n  
+ Scientific Computing Kickstart is a three × half day course\n  for 
+ researchers to get started with scientific computing (day\n  1) and high-
+ performance computing (HPC) clusters (day 2). We\n  will take you from 
+ being a new user to being competent to run\n  your code at a larger scale 
+ than you could before. (However\,\n  we don’t cover application-specific 
+ matters beyond some\n  Python/R/Matlab basics or focus on the high-
+ performance part:\n  but this is an easy next step after this course).\n\n
+   This course is good for any researcher who thinks they may\n  need to 
+ scale up to larger resources in the next six months\,\n  in any field. 
+ Even if you don’t use computing clusters\, you\n  will be better prepared 
+ to understand how computing works on\n  other systems. If you are a 
+ student\, this is an investment in\n  your skills. By the end of the 
+ course you get the hints\, ready\n  solutions and copy/paste examples on 
+ how to find\, run and\n  monitor your applications\, and manage your data.
+  In addition\n  to how to optimize your workflow in terms of filesystem\n
+   traffic\, memory usage etc.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220610T120000
+DURATION:PT4H
+SUMMARY:Scientific Computing Kickstart (+HPC kickstart)
+UID:b798354f-8591-49c7-95e3-7893cc909db0@b798.org
+DESCRIPTION:https://scicomp.aalto.fi/training/scip/kickstart-
+ summer-2022/\n\nDay 1:\n\n  This course is a general introduction to 
+ computational\n  researchers. The point is to serve as a guide to your 
+ career:\n  a map to the types of resources that are available and skills\n
+   you may need in your career\, so that you can be prepared when\n  you 
+ need more in the future. There will also be topics related\n  to using 
+ these resources. Aalto University is used in some\n  examples\, but all 
+ parts are designed to be useful no matter\n  where you are now.\n\n  This 
+ course is especially suitable to new researchers or\n  students trying to 
+ understand computational/data analysis\n  options available to them. It 
+ won’t go into anything too deep\,\n  but will provide you with a good 
+ background for your next\n  steps: you will know what resources are 
+ available and know the\n  next steps to use them.\n\nDay 2-3:\n\n  
+ Scientific Computing Kickstart is a three × half day course\n  for 
+ researchers to get started with scientific computing (day\n  1) and high-
+ performance computing (HPC) clusters (day 2). We\n  will take you from 
+ being a new user to being competent to run\n  your code at a larger scale 
+ than you could before. (However\,\n  we don’t cover application-specific 
+ matters beyond some\n  Python/R/Matlab basics or focus on the high-
+ performance part:\n  but this is an easy next step after this course).\n\n
+   This course is good for any researcher who thinks they may\n  need to 
+ scale up to larger resources in the next six months\,\n  in any field. 
+ Even if you don’t use computing clusters\, you\n  will be better prepared 
+ to understand how computing works on\n  other systems. If you are a 
+ student\, this is an investment in\n  your skills. By the end of the 
+ course you get the hints\, ready\n  solutions and copy/paste examples on 
+ how to find\, run and\n  monitor your applications\, and manage your data.
+  In addition\n  to how to optimize your workflow in terms of filesystem\n
+   traffic\, memory usage etc.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220425T120000
+DURATION:PT2H
+SUMMARY:Software design for scientific computing
+UID:1917b187-0a7d-4cc2-a7d6-399b4890bb8f@1917.org
+DESCRIPTION:More info at: https://scicomp.aalto.fi/training/scip/software-
+ design-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220503T100000
+DURATION:PT4H
+SUMMARY:Software design for scientific computing
+UID:3002e246-8cb6-478c-a793-50331ab7d4ac@3002.org
+DESCRIPTION:More info at: https://scicomp.aalto.fi/training/scip/software-
+ design-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220509T100000
+DURATION:PT5H
+SUMMARY:Software design for scientific computing
+UID:5c8af1de-9644-4801-aabc-fa86a7a71245@5c8a.org
+DESCRIPTION:More info at: https://scicomp.aalto.fi/training/scip/software-
+ design-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220404T120000
+DURATION:PT3H
+SUMMARY:Hands-on Data Anonymization
+UID:9dffae20-2b31-44d6-849e-ef7a6adb640b@9dff.org
+DESCRIPTION:Here you can register for our "Hands-on Data Anonymization 
+ 2022" More info at: https://scicomp.aalto.fi/training/scip/data-
+ anonymization-workshop-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220406T120000
+DURATION:PT3H
+SUMMARY:Hands-on Data Anonymization
+UID:30e816f9-71b2-42c5-9d25-f353b6ee55d9@30e8.org
+DESCRIPTION:Here you can register for our "Hands-on Data Anonymization 
+ 2022" More info at: https://scicomp.aalto.fi/training/scip/data-
+ anonymization-workshop-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220420T120000
+DURATION:PT3H
+SUMMARY:Debugging with Python\, Matlab\, C/C++\, Julia\, and R
+UID:4d21ddaf-469d-432f-abde-db75420c2191@4d21.org
+DESCRIPTION:Introduction to Debugging with Python\, Matlab\, and C/C++ 
+ April 2022. This is an online course available to anyone with an internet 
+ connection.\nhttps://scicomp.aalto.fi/training/scip/debugging-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220421T120000
+DURATION:PT3H
+SUMMARY:Debugging with Python\, Matlab\, C/C++\, Julia\, and R
+UID:3b72f886-fb85-4942-acfc-b3175a8e771f@3b72.org
+DESCRIPTION:Introduction to Debugging with Python\, Matlab\, and C/C++ 
+ April 2022. This is an online course available to anyone with an internet 
+ connection.\nhttps://scicomp.aalto.fi/training/scip/debugging-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220422T120000
+DURATION:PT3H
+SUMMARY:Debugging with Python\, Matlab\, C/C++\, Julia\, and R
+UID:8376af98-f5d5-4451-87a5-0ba25316f331@8376.org
+DESCRIPTION:Introduction to Debugging with Python\, Matlab\, and C/C++ 
+ April 2022. This is an online course available to anyone with an internet 
+ connection.\nhttps://scicomp.aalto.fi/training/scip/debugging-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220425T120000
+DURATION:PT3H
+SUMMARY:Debugging with Python\, Matlab\, C/C++\, Julia\, and R
+UID:1fb57323-516e-44c4-8e34-4be69fe3ad8c@1fb5.org
+DESCRIPTION:Introduction to Debugging with Python\, Matlab\, and C/C++ 
+ April 2022. This is an online course available to anyone with an internet 
+ connection.\nhttps://scicomp.aalto.fi/training/scip/debugging-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220426T120000
+DURATION:PT3H
+SUMMARY:Debugging with Python\, Matlab\, C/C++\, Julia\, and R
+UID:7f8e587c-80f9-41a8-9253-c04772824c5d@7f8e.org
+DESCRIPTION:Introduction to Debugging with Python\, Matlab\, and C/C++ 
+ April 2022. This is an online course available to anyone with an internet 
+ connection.\nhttps://scicomp.aalto.fi/training/scip/debugging-2022/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220322T100000
+DURATION:PT3H30M
+SUMMARY:Code Refinery Workshop
+UID:46330941-7f6f-4b88-97e1-a0e5031fd79b@4633.org
+DESCRIPTION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220323T100000
+DURATION:PT3H30M
+SUMMARY:Code Refinery Workshop
+UID:dbf5f98c-ad33-4dfe-929e-bfa2a442b6d5@dbf5.org
+DESCRIPTION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220324T100000
+DURATION:PT3H30M
+SUMMARY:Code Refinery Workshop
+UID:b9abba81-5789-411a-8f06-e9bea3d1de67@b9ab.org
+DESCRIPTION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220329T100000
+DURATION:PT3H30M
+SUMMARY:Code Refinery Workshop
+UID:92546184-2f5d-479d-aca8-9a0341243010@9254.org
+DESCRIPTION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220330T100000
+DURATION:PT3H30M
+SUMMARY:Code Refinery Workshop
+UID:f4ea82fd-0546-4469-ab3e-7f8abbd52b5b@f4ea.org
+DESCRIPTION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220331T100000
+DURATION:PT3H30M
+SUMMARY:Code Refinery Workshop
+UID:a268cd36-034d-40dd-a4f0-3f10644e97ce@a268.org
+DESCRIPTION:https://coderefinery.org/workshops/upcoming/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220321T120000
+DURATION:PT3H
+SUMMARY:Linux Shell Scripting
+UID:1bd6ea5e-f4c4-4268-9542-4cb632797b81@1bd6.org
+DESCRIPTION:Did you know that SLURM batch script is a regular BASH shell 
+ script mostly? Did you know that when you login to Triton (our computer 
+ cluster) your terminal is a fully enabled shell scripting environment? Do 
+ you want to know how to create an alias\, a function\, how to use loops 
+ and traps in a shell\, work with variables and arrays? This course is 
+ oriented on those who want to start using BASH programming fully and use 
+ terminal efficiently.\nWe expect that course participants are familiar 
+ with the shell basics (experience with BASH\, ZSH\, etc). We somewhat 
+ touch the Part 1 of the Linux Shell tutorial\, and continue to Part 2. 
+ Though we expect that participant knows how to create a directory and can 
+ edit file from the linux shell command line. We will be scripting a lot\, 
+ there will be lots of demos and real practicing.location: Online\, 
+ register for connection 
+ details\nhttps://scicomp.aalto.fi/training/scip/shell-scripting/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220325T120000
+DURATION:PT3H
+SUMMARY:Linux Shell Scripting
+UID:7120965a-9672-4e41-8a82-cf3122668cd3@7120.org
+DESCRIPTION:Did you know that SLURM batch script is a regular BASH shell 
+ script mostly? Did you know that when you login to Triton (our computer 
+ cluster) your terminal is a fully enabled shell scripting environment? Do 
+ you want to know how to create an alias\, a function\, how to use loops 
+ and traps in a shell\, work with variables and arrays? This course is 
+ oriented on those who want to start using BASH programming fully and use 
+ terminal efficiently.\nWe expect that course participants are familiar 
+ with the shell basics (experience with BASH\, ZSH\, etc). We somewhat 
+ touch the Part 1 of the Linux Shell tutorial\, and continue to Part 2. 
+ Though we expect that participant knows how to create a directory and can 
+ edit file from the linux shell command line. We will be scripting a lot\, 
+ there will be lots of demos and real practicing.location: Online\, 
+ register for connection 
+ details\nhttps://scicomp.aalto.fi/training/scip/shell-scripting/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220328T120000
+DURATION:PT3H
+SUMMARY:Linux Shell Scripting
+UID:2fc4e67e-1c2c-421c-a999-05ccbd212f23@2fc4.org
+DESCRIPTION:Did you know that SLURM batch script is a regular BASH shell 
+ script mostly? Did you know that when you login to Triton (our computer 
+ cluster) your terminal is a fully enabled shell scripting environment? Do 
+ you want to know how to create an alias\, a function\, how to use loops 
+ and traps in a shell\, work with variables and arrays? This course is 
+ oriented on those who want to start using BASH programming fully and use 
+ terminal efficiently.\nWe expect that course participants are familiar 
+ with the shell basics (experience with BASH\, ZSH\, etc). We somewhat 
+ touch the Part 1 of the Linux Shell tutorial\, and continue to Part 2. 
+ Though we expect that participant knows how to create a directory and can 
+ edit file from the linux shell command line. We will be scripting a lot\, 
+ there will be lots of demos and real practicing.location: Online\, 
+ register for connection 
+ details\nhttps://scicomp.aalto.fi/training/scip/shell-scripting/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220401T120000
+DURATION:PT3H
+SUMMARY:Linux Shell Scripting
+UID:1abcf9ed-159b-48e7-bb12-718cfab03117@1abc.org
+DESCRIPTION:Did you know that SLURM batch script is a regular BASH shell 
+ script mostly? Did you know that when you login to Triton (our computer 
+ cluster) your terminal is a fully enabled shell scripting environment? Do 
+ you want to know how to create an alias\, a function\, how to use loops 
+ and traps in a shell\, work with variables and arrays? This course is 
+ oriented on those who want to start using BASH programming fully and use 
+ terminal efficiently.\nWe expect that course participants are familiar 
+ with the shell basics (experience with BASH\, ZSH\, etc). We somewhat 
+ touch the Part 1 of the Linux Shell tutorial\, and continue to Part 2. 
+ Though we expect that participant knows how to create a directory and can 
+ edit file from the linux shell command line. We will be scripting a lot\, 
+ there will be lots of demos and real practicing.location: Online\, 
+ register for connection 
+ details\nhttps://scicomp.aalto.fi/training/scip/shell-scripting/
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220308T100000
+DURATION:PT3H
+SUMMARY:MPI introduction
+UID:4d094d62-74d0-416e-8413-258a1cd9ac39@4d09.org
+DESCRIPTION:In this introduction to MPI programming we are going to cover 
+ all the basic functionalities of the API\,\nand see how these are applied 
+ to real problems. Starting from simple\, well-established algorithms\, 
+ we\nwill build up towards more advanced and realistic examples commonly 
+ found in computational physics and\nchemistry. Finally\, we will explore 
+ how the strengths of OpenMP multithreading and MPI can be combined\nwith 
+ hybrid parallel programming.\nhttps://scicomp.aalto.fi/training/scip/mpi-
+ introduction/
+LOCATION:Online\, register for connection details
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220311T100000
+DURATION:PT3H
+SUMMARY:MPI introduction
+UID:a50c06b3-4133-449a-b1a5-a1248efe6f6d@a50c.org
+DESCRIPTION:In this introduction to MPI programming we are going to cover 
+ all the basic functionalities of the API\,\nand see how these are applied 
+ to real problems. Starting from simple\, well-established algorithms\, 
+ we\nwill build up towards more advanced and realistic examples commonly 
+ found in computational physics and\nchemistry. Finally\, we will explore 
+ how the strengths of OpenMP multithreading and MPI can be combined\nwith 
+ hybrid parallel programming.\nhttps://scicomp.aalto.fi/training/scip/mpi-
+ introduction/
+LOCATION:Online\, register for connection details
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220315T100000
+DURATION:PT3H
+SUMMARY:MPI introduction
+UID:0d08c889-b111-4968-9343-f99c584b151a@0d08.org
+DESCRIPTION:In this introduction to MPI programming we are going to cover 
+ all the basic functionalities of the API\,\nand see how these are applied 
+ to real problems. Starting from simple\, well-established algorithms\, 
+ we\nwill build up towards more advanced and realistic examples commonly 
+ found in computational physics and\nchemistry. Finally\, we will explore 
+ how the strengths of OpenMP multithreading and MPI can be combined\nwith 
+ hybrid parallel programming.\nhttps://scicomp.aalto.fi/training/scip/mpi-
+ introduction/
+LOCATION:Online\, register for connection details
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220318T100000
+DURATION:PT3H
+SUMMARY:MPI introduction
+UID:6531a4e0-4c04-4423-aa97-0a25a517d8e5@6531.org
+DESCRIPTION:In this introduction to MPI programming we are going to cover 
+ all the basic functionalities of the API\,\nand see how these are applied 
+ to real problems. Starting from simple\, well-established algorithms\, 
+ we\nwill build up towards more advanced and realistic examples commonly 
+ found in computational physics and\nchemistry. Finally\, we will explore 
+ how the strengths of OpenMP multithreading and MPI can be combined\nwith 
+ hybrid parallel programming.\nhttps://scicomp.aalto.fi/training/scip/mpi-
+ introduction/
+LOCATION:Online\, register for connection details
+DTSTAMP:20220331T095810Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241008T070000Z
+DTEND:20241011T100000Z
+SUMMARY:Build Systems Course and Hackathon - Part I
+UID:b3bbc835-3782-413b-9d25-4d1d47503bdc
+DESCRIPTION:https://www.pdc.kth.se/about/events/build-systems-course-and-
+ hackathon-part-i-1.1346795
+LOCATION:Online (for the course)
+DTSTAMP:20240826T162034Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T080000Z
+DTEND:20241017T140000Z
+SUMMARY:Build Systems Course and Hackathon - Part II
+UID:e6f86420-0f69-47f2-b215-926b8667c104
+DESCRIPTION:https://www.pdc.kth.se/about/events/build-systems-course-and-
+ hackathon-part-ii-1.1346798
+LOCATION:Conference rooms at RISE office at KTH campus\, Drottning 
+ Kristinas väg 61\, Stockholm
+DTSTAMP:20240826T162034Z
+END:VEVENT
+NAME:All events, teaching and internal
+X-WR-CALNAME:All events, teaching and internal
+END:VCALENDAR
