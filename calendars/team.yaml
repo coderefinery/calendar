@@ -7,11 +7,11 @@ include:
   - community.yaml
 
 events:
-  - summary: "CodeRefinery team meeting - topic: TBD"
+  - summary: "CodeRefinery team meeting"
     location: https://hackmd.io/@coderefinery/team-meeting
     begin: 2024-09-30 14:00:00
     duration: { minutes: 30 }
-    description: "Details: https://hackmd.io/@coderefinery/team-meeting"
+    description: "Meeting topic: https://coderefinery.org/join/meetings/"
     repeat:
       interval: {weeks: 1}
       until: 2024-12-31
