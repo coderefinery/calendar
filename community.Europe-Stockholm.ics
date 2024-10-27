@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240408T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:9d7206c4-84f1-4b32-8f26-746edd3b33ee@9d72.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\nAgenda/connection details: https://hackmd.io/@coderefinery/team-
+ meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20241027T152626Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20240513T140000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20240513T143000
+SUMMARY:Welcome CodeRefinery ambassadors!
+UID:238e08e4-fc6f-43b6-b124-7340210a26a6@238e.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20241027T152626Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220621T120000
+DURATION:PT3H
+SUMMARY:Community teaching workshop
+UID:d5151b8f-da5d-4eb3-b185-ef3d5e1d4fa0@d515.org
+DESCRIPTION:It's dangerous to go alone\, take each other!  Remote work 
+ has\ntransformed interactive teaching from something that exists in\none 
+ room to something that can be a community event.  While\nonline misses 
+ physical presence\, by using the practices\nCodeRefinery has developed\, 
+ we can keep it reasonable interactive\nand take advantage of a huge number
+  of other benefits\, such as\nmore collaboration\, more ways to learn (for
+  different needs)\, and\nmore large-scale interaction.\n\nThis mini-
+ workshop will try to discuss (and demonstrate) some of\nthe best practices
+  that CodeRefinery (https://coderefinery.org)\nhas learned during remote 
+ teaching\, and provides a hands-on way\nof getting some experience with 
+ them.  At only three hours\, this\nis more of a preview and discussion 
+ than an intensive training\nevent (and we hope to have a longer event 
+ sometime in mid-late\n2022).\n\nInfo and registration: 
+ https://hackmd.io/@coderefinery/community-teaching-2022-summer
+LOCATION:Online
+DTSTAMP:20241027T152626Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220901T103000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220902T120000
+SUMMARY:Kick-off 2022
+UID:6a59a9f3-490b-41a3-9557-9dc999f5818f@6a59.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/kickoff2022
+LOCATION:Aalto University campus (Finland)
+DTSTAMP:20241027T152626Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220901T100000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220902T110000
+SUMMARY:Python for Scicomp Hackathon
+UID:df5a0613-5271-4233-b89b-ce4603430964@df5a.org
+DESCRIPTION:Work together to improve the Python for Scicomp course 
+ materials.\nThe winter 2022 Python for Scicomp is still fresh in our 
+ minds\nand the feedback is handy. It's easy to postpone 
+ implementing\nthese to tomorrow\, but tomorrow never comes and we end 
+ frantically\nupdating materials a few weeks before the course.\n\nBut this
+  time it will be different! We will start with an informal\nchat and 
+ planning session on Zoom and continue to work on our\nfavorite sections\, 
+ or the sections we think need the most work.\n\nEveryone is welcome. You 
+ don't need have tought the course. If\nyou have time to help with a few 
+ issues\, your help is appreciated.
+LOCATION:https://aalto.zoom.us/j/64696542787 and Zulip
+DTSTAMP:20241027T152626Z
+END:VEVENT
+END:VCALENDAR

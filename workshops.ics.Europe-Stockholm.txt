@@ -1,0 +1,72 @@
+
+
+----------
+Subject:  CodeRefinery train-the-trainer workshop, 2024
+Start:    Tuesday, 13 August 2024, 09:00 CEST
+Location: https://coderefinery.github.io/train-the-trainer/
+
+
+----------
+Subject:  CodeRefinery workshop, Chalmers, Gothenburg, August 2024
+Start:    Tuesday, 27 August 2024, 09:00 CEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - onboarding
+Start:    Wednesday, 28 August 2024, 14:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - onboarding
+Start:    Friday, 30 August 2024, 10:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - install help
+Start:    Wednesday, 04 September 2024, 12:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - install help
+Start:    Thursday, 05 September 2024, 12:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - lessons
+Start:    Tuesday, 10 September 2024, 09:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - lessons
+Start:    Tuesday, 17 September 2024, 09:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - bring your own code session
+Start:    Tuesday, 22 October 2024, 14:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - bring your own code session
+Start:    Tuesday, 29 October 2024, 12:00 CET
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 08 October 2024, 08:50 CEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 15 October 2024, 09:00 CEST
+Location: https://coderefinery.org/workshops/upcoming/
