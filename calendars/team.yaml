@@ -1,7 +1,7 @@
 name: Team meetings and events
 description: |
-  Internal, people who actively contribute.  About one meeting per
-  week (this calendar includes the community calls)
+  People who actively contribute.  About one meeting per
+  week (this calendar includes the community calls) 
 timezone: Europe/Stockholm
 include:
   - community.yaml
@@ -9,53 +9,10 @@ include:
 events:
   - summary: "CodeRefinery team meeting"
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-09-30 14:00:00
+    begin: 2024-11-11 14:00:00
     duration: { minutes: 30 }
     description: "Meeting topic: https://coderefinery.org/join/meetings/"
     repeat:
       interval: {weeks: 1}
-      until: 2024-12-31
+      until: 2025-04-30
 
-  - summary: "Feedback and debriefing for the CodeRefinery September workshop"
-    location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-09-23 14:00:00
-    end: 2024-09-23 14:30:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting
-
-  - summary: "CodeRefinery September workshop week 2 preparation"
-    location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-09-16 14:00:00
-    end: 2024-09-16 14:30:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting
-
-  - summary: "CodeRefinery September workshop week 1 preparation"
-    location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-09-09 14:00:00
-    end: 2024-09-09 14:30:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting
-
-  - summary: "CodeRefinery September workshop preparation"
-    location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-09-02 14:00:00
-    end: 2024-09-02 14:30:00
-    description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting
-
-  - summary: CodeRefinery co-working session
-    location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-05-27 15:00:00
-    duration: { minutes: 60 }
-    description: |
-      CodeRefinery co-working session
-
-      Come to work on CodeRefinery tasks together, ask about open and urgent tasks or
-      discuss new task ideas.
-
-      Task board: https://github.com/orgs/coderefinery/projects/7
-      Connection details: https://hackmd.io/@coderefinery/team-meeting
-    repeat:
-      interval: {weeks: 1}
-      until: 2024-12-31
