@@ -6,70 +6,50 @@ description: |
 timezone: Europe/Stockholm
 
 events:
-  # Community calls
-  - summary: CodeRefinery Community call
+  # Open house
+  - summary: CodeRefinery Open House - Reproducible Research 
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-04-08 14:00:00
-    duration: { hours: 1 }
+    begin: 2024-12-17 09:00:00
+    duration: { minutes: 180 }
     description: |
-      CodeRefinery community meeting, everyone is most welcome!
-      Agenda/connection details: https://hackmd.io/@coderefinery/team-meeting
+      CodeRefinery Open House
 
-  - summary: Welcome CodeRefinery ambassadors!
+      Come to discuss and work on open topics related to reproducible research lessons, i.e. week 2 of the CodeRefinery workshop. You can also ask about ask us about anything or
+      discuss new ideas.
+      
+      Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: CodeRefinery Open House - Git masterclass
     location: https://hackmd.io/@coderefinery/team-meeting
-    begin: 2024-05-13 14:00:00
-    end: 2024-05-13 14:30:00
+    begin: 2024-01-14 09:00:00
+    duration: { minutes: 180 }
     description: |
-      Details: https://hackmd.io/@coderefinery/team-meeting
+      CodeRefinery Open House
 
-  - summary: Community teaching workshop
+      Come to discuss and work on topics related a git masterclass curriculum. You can also ask about ask us about anything or
+      discuss new ideas.
+      
+      Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: CodeRefinery Open House - Git masterclass
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2024-02-11 09:00:00
+    duration: { minutes: 180 }
     description: |
-      It's dangerous to go alone, take each other!  Remote work has
-      transformed interactive teaching from something that exists in
-      one room to something that can be a community event.  While
-      online misses physical presence, by using the practices
-      CodeRefinery has developed, we can keep it reasonable interactive
-      and take advantage of a huge number of other benefits, such as
-      more collaboration, more ways to learn (for different needs), and
-      more large-scale interaction.
+      CodeRefinery Open House
 
-      This mini-workshop will try to discuss (and demonstrate) some of
-      the best practices that CodeRefinery (https://coderefinery.org)
-      has learned during remote teaching, and provides a hands-on way
-      of getting some experience with them.  At only three hours, this
-      is more of a preview and discussion than an intensive training
-      event (and we hope to have a longer event sometime in mid-late
-      2022).
+      Come to discuss and work on topics related our workshop lesson materials. If you want to teach with us, this session also serves as onboarding for new instructors. 
+      You can also ask about ask us about anything or discuss new ideas.
+      
+      Connection details: https://hackmd.io/@coderefinery/team-meeting
+  
+  # Ambassador calls
 
-      Info and registration: https://hackmd.io/@coderefinery/community-teaching-2022-summer
-
-    location: Online
-    timezone: Europe/Helsinki
-    begin: 2022-06-21 13:00:00
-    duration: {hours: 3}
-
-  - summary: Kick-off 2022
-    location: Aalto University campus (Finland)
-    begin: 2022-09-01 10:30:00
-    end: 2022-09-02 12:00:00
+  - summary: CodeRefinery ambassador call
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2024-12-16 14:00:00
+    duration: { minutes: 30 }
     description: |
-      Details: https://hackmd.io/@coderefinery/kickoff2022
+      Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
 
-  - summary: Python for Scicomp Hackathon
-    description: |
-      Work together to improve the Python for Scicomp course materials.
-      The winter 2022 Python for Scicomp is still fresh in our minds
-      and the feedback is handy. It's easy to postpone implementing
-      these to tomorrow, but tomorrow never comes and we end frantically
-      updating materials a few weeks before the course.
-
-      But this time it will be different! We will start with an informal
-      chat and planning session on Zoom and continue to work on our
-      favorite sections, or the sections we think need the most work.
-
-      Everyone is welcome. You don't need have tought the course. If
-      you have time to help with a few issues, your help is appreciated.
-    location: https://aalto.zoom.us/j/64696542787 and Zulip
-    timezone: Europe/Helsinki
-    begin: 2022-09-01 11:00:00
-    end: 2022-09-02 12:00:00
+ 
