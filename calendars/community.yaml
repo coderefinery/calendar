@@ -31,7 +31,7 @@ events:
       
       Connection details: https://hackmd.io/@coderefinery/team-meeting
 
-  - summary: CodeRefinery Open House - Git masterclass
+  - summary: CodeRefinery Open House - lesson material updates
     location: https://hackmd.io/@coderefinery/team-meeting
     begin: 2024-02-11 09:00:00
     duration: { minutes: 180 }
