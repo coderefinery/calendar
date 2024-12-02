@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20241217T090000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - Reproducible Research
+UID:749834d9-9722-4d08-8e7a-2e9b11e9d366@7498.org
+DESCRIPTION:CodeRefinery Open House\n\nCome to discuss and work on open 
+ topics related to reproducible research lessons\, i.e. week 2 of the 
+ CodeRefinery workshop. You can also ask us about anything or\ndiscuss new 
+ ideas.\n\nConnection details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20241202T002851Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20250114T090000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - Git masterclass
+UID:c6e18c0d-7f69-4d22-a1aa-932178284a98@c6e1.org
+DESCRIPTION:CodeRefinery Open House\n\nIn this session we plan to do 
+ collaborative lesson development towards intermediate/advanced Git ("Git 
+ masterclass").\n\nConnection details: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20241202T002851Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20250211T090000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - lesson material updates
+UID:c7440440-f28a-4ca1-9523-57f83ccf0f90@c744.org
+DESCRIPTION:CodeRefinery Open House\n\nCome to discuss and work on topics 
+ related our workshop lesson materials. If you want to teach with us\, this
+  session also serves as onboarding for new instructors.\nYou can also ask 
+ us about anything or discuss new ideas.\n\nConnection details: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20241202T002851Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20241216T140000
+DURATION:PT30M
+SUMMARY:CodeRefinery ambassador call
+UID:ffc14583-85ac-43b8-b1be-607ddc35b792@ffc1.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20241202T002851Z
+END:VEVENT
+NAME:CodeRefinery community calls
+X-WR-CALNAME:CodeRefinery community calls
+END:VCALENDAR
