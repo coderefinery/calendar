@@ -7,7 +7,7 @@ timezone: Europe/Stockholm
 
 events:
   # Open house
-  - summary: CodeRefinery Open House - Reproducible Research 
+  - summary: CodeRefinery Open House - Reproducible Research
     location: https://hackmd.io/@coderefinery/team-meeting
     begin: 2024-12-17 09:00:00
     duration: { minutes: 180 }
@@ -16,7 +16,7 @@ events:
 
       Come to discuss and work on open topics related to reproducible research lessons, i.e. week 2 of the CodeRefinery workshop. You can also ask about ask us about anything or
       discuss new ideas.
-      
+
       Connection details: https://hackmd.io/@coderefinery/team-meeting
 
   - summary: CodeRefinery Open House - Git masterclass
@@ -28,7 +28,7 @@ events:
 
       Come to discuss and work on topics related a git masterclass curriculum. You can also ask about ask us about anything or
       discuss new ideas.
-      
+
       Connection details: https://hackmd.io/@coderefinery/team-meeting
 
   - summary: CodeRefinery Open House - lesson material updates
@@ -38,11 +38,11 @@ events:
     description: |
       CodeRefinery Open House
 
-      Come to discuss and work on topics related our workshop lesson materials. If you want to teach with us, this session also serves as onboarding for new instructors. 
+      Come to discuss and work on topics related our workshop lesson materials. If you want to teach with us, this session also serves as onboarding for new instructors.
       You can also ask about ask us about anything or discuss new ideas.
-      
+
       Connection details: https://hackmd.io/@coderefinery/team-meeting
-  
+
   # Ambassador calls
 
   - summary: CodeRefinery ambassador call
@@ -52,4 +52,4 @@ events:
     description: |
       Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
 
- 
+
