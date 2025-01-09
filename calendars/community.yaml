@@ -26,9 +26,13 @@ events:
     description: |
       CodeRefinery Open House
 
-      In this session we plan to do collaborative lesson development towards intermediate/advanced Git ("Git masterclass").
+      This discussion is intended to see what is already out there, what
+      actually "advanced git" means to different people and what kind of
+      training and materials are missing and how we can work together to fill
+      potential gaps.
 
-      Connection details: https://hackmd.io/@coderefinery/team-meeting
+    Notes and connection details:
+      https://hackmd.io/@coderefinery/oh_git_masterclass
 
   - summary: CodeRefinery Open House - lesson material updates
     location: https://hackmd.io/@coderefinery/team-meeting
