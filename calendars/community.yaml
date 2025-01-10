@@ -20,7 +20,7 @@ events:
       Connection details: https://hackmd.io/@coderefinery/team-meeting
 
   - summary: CodeRefinery Open House - Git masterclass
-    location: https://hackmd.io/@coderefinery/team-meeting
+    location: https://hackmd.io/@coderefinery/oh_git_masterclass
     begin: 2025-01-14 09:00:00
     duration: { minutes: 180 }
     description: |
@@ -31,8 +31,8 @@ events:
       training and materials are missing and how we can work together to fill
       potential gaps.
 
-    Notes and connection details:
-      https://hackmd.io/@coderefinery/oh_git_masterclass
+      Notes and connection details:
+        https://hackmd.io/@coderefinery/oh_git_masterclass
 
   - summary: CodeRefinery Open House - lesson material updates
     location: https://hackmd.io/@coderefinery/team-meeting
