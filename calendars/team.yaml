@@ -3,8 +3,6 @@ description: |
   People who actively contribute.  About one meeting per
   week (this calendar includes the community calls)
 timezone: Europe/Stockholm
-include:
-  - community.yaml
 
 events:
   - summary: "CodeRefinery team meeting"
