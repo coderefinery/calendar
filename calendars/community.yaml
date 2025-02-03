@@ -41,7 +41,19 @@ events:
     description: |
       CodeRefinery Open House
 
-      Come to discuss and work on topics related our workshop lesson materials. If you want to teach with us, this session also serves as onboarding for new instructors.
+      Come to discuss and work on topics related our workshop lesson materials. 
+      You can also ask us about anything or discuss new ideas.
+
+      Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: CodeRefinery Open House - workshop co-work
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2025-03-04 09:00:00
+    duration: { minutes: 180 }
+    description: |
+      CodeRefinery Open House
+
+      Come to discuss and work on topics related our workshop: lesson materials, technical details, contributing. 
       You can also ask us about anything or discuss new ideas.
 
       Connection details: https://hackmd.io/@coderefinery/team-meeting
@@ -52,5 +64,12 @@ events:
     location: https://hackmd.io/@coderefinery/team-meeting
     begin: 2024-12-16 14:00:00
     duration: { minutes: 30 }
+    description: |
+      Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+- summary: CodeRefinery ambassador call
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2025-01-03 14:00:00
+    duration: { minutes: 60 }
     description: |
       Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
