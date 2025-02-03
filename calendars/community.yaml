@@ -67,7 +67,7 @@ events:
     description: |
       Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
 
-- summary: CodeRefinery ambassador call
+  - summary: CodeRefinery ambassador call
     location: https://hackmd.io/@coderefinery/team-meeting
     begin: 2025-01-03 14:00:00
     duration: { minutes: 60 }
