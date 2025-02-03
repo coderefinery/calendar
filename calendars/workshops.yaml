@@ -5,6 +5,23 @@ timezone: Europe/Stockholm
 
 
 events:
+
+# CR March 25 workshop - lessons
+  - &cr-2025-mar
+    summary: "CodeRefinery workshop (March 2025) - lessons"
+    location: https://coderefinery.github.io/2025-03-25-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-03-25 09:00:00
+    duration: {hours: 4, minutes: 30}
+    repeat:
+      interval: {days: 1}
+      until: 2025-03-27 13:30:00
+  - <<: *cr-2025-mar
+    begin: 2025-04-01 09:00:00
+    repeat:
+      interval: {days: 1}
+      until: 2025-04-03 14:00:00
+      
   # CR train the trainer 2024 workshop
   - summary: "CodeRefinery train-the-trainer workshop, 2024"
     location: https://coderefinery.github.io/train-the-trainer/
