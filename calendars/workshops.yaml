@@ -6,7 +6,23 @@ timezone: Europe/Stockholm
 
 events:
 
-# CR March 25 workshop - lessons
+
+# CR March 25 workshop - sessions
+  - summary: "CodeRefinery workshop (Mar 2025) - Shell crash course"
+    location: https://coderefinery.github.io/2025-03-25-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-03-19 13:00:00
+    duration: {minutes: 30}
+  - summary: "CodeRefinery workshop (Mar 2025) - Installation help"
+    location: https://coderefinery.github.io/2025-03-25-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-03-19 13:30:00
+    duration: {hours: 1}
+  - summary: "CodeRefinery workshop (Mar 2025) - Installation help"
+    location: https://coderefinery.github.io/2025-03-25-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-03-24 13:30:00
+    duration: {hours: 1, minutes: 30}
   - &cr-2025-mar
     summary: "CodeRefinery workshop (March 2025) - lessons"
     location: https://coderefinery.github.io/2025-03-25-workshop/
@@ -21,6 +37,11 @@ events:
     repeat:
       interval: {days: 1}
       until: 2025-04-03 14:00:00
+  - summary: "CodeRefinery workshop (Mar 2025) - bring your own code"
+    location: https://coderefinery.github.io/2025-03-25-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-04-16 09:00:00
+    duration: {hours: 2}
       
   # CR train the trainer 2024 workshop
   - summary: "CodeRefinery train-the-trainer workshop, 2024"
