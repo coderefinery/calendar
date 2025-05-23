@@ -12,5 +12,5 @@ events:
     description: "Meeting topic: https://coderefinery.org/join/meetings/"
     repeat:
       interval: {weeks: 1}
-      until: 2025-04-30
+      until: 2028-05-16
 
