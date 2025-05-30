@@ -1,0 +1,117 @@
+
+
+----------
+Subject:  CodeRefinery workshop placeholder week 1
+Start:    Tuesday, 09 September 2025, 09:00 CEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Placeholder for week 1 of the CodeRefinery workshop, note that exact times may still change
+
+
+----------
+Subject:  CodeRefinery workshop (Mar 2025) - Shell crash course
+Start:    Wednesday, 19 March 2025, 13:00 CET
+Location: https://coderefinery.github.io/2025-03-25-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Mar 2025) - Installation help
+Start:    Wednesday, 19 March 2025, 13:30 CET
+Location: https://coderefinery.github.io/2025-03-25-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Mar 2025) - Installation help
+Start:    Monday, 24 March 2025, 13:30 CET
+Location: https://coderefinery.github.io/2025-03-25-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (March 2025) - lessons
+Start:    Tuesday, 25 March 2025, 09:00 CET
+Location: https://coderefinery.github.io/2025-03-25-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (March 2025) - lessons
+Start:    Tuesday, 01 April 2025, 09:00 CEST
+Location: https://coderefinery.github.io/2025-03-25-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Mar 2025) - bring your own code
+Start:    Wednesday, 16 April 2025, 09:00 CEST
+Location: https://coderefinery.github.io/2025-03-25-workshop/
+
+
+----------
+Subject:  CodeRefinery train-the-trainer workshop, 2024
+Start:    Tuesday, 13 August 2024, 09:00 CEST
+Location: https://coderefinery.github.io/train-the-trainer/
+
+
+----------
+Subject:  CodeRefinery workshop, Chalmers, Gothenburg, August 2024
+Start:    Tuesday, 27 August 2024, 09:00 CEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - onboarding
+Start:    Wednesday, 28 August 2024, 14:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - onboarding
+Start:    Friday, 30 August 2024, 10:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - install help
+Start:    Wednesday, 04 September 2024, 12:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - install help
+Start:    Thursday, 05 September 2024, 12:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - lessons
+Start:    Tuesday, 10 September 2024, 09:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - lessons
+Start:    Tuesday, 17 September 2024, 09:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - bring your own code session
+Start:    Tuesday, 22 October 2024, 14:00 CEST
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  CodeRefinery workshop (Sep 2024) - bring your own code session
+Start:    Tuesday, 29 October 2024, 12:00 CET
+Location: https://coderefinery.github.io/2024-09-10-workshop/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 08 October 2024, 08:50 CEST
+Location: https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject:  Build Systems Hackathon, October 2024
+Start:    Tuesday, 15 October 2024, 09:00 CEST
+Location: https://coderefinery.org/workshops/upcoming/
