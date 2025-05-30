@@ -93,3 +93,31 @@ events:
     duration: { minutes: 60 }
     description: |
       Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: CodeRefinery ambassador call
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2025-06-30 14:00:00
+    duration: { minutes: 60 }
+    description: |
+      Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: CodeRefinery ambassador call
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2025-08-25 14:00:00
+    duration: { minutes: 60 }
+    description: |
+      Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: CodeRefinery ambassador call
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2025-10-06 14:00:00
+    duration: { minutes: 60 }
+    description: |
+      Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+  - summary: CodeRefinery ambassador call
+    location: https://hackmd.io/@coderefinery/team-meeting
+    begin: 2025-11-17 14:00:00
+    duration: { minutes: 60 }
+    description: |
+      Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
