@@ -6,15 +6,25 @@ timezone: Europe/Stockholm
 
 events:
 
-  - summary: CodeRefinery workshop placeholder week 1
-    location: https://hackmd.io/@coderefinery/team-meeting
+# CR Sep/Oct 25 workshop - sessions 
+  - summary: CodeRefinery Sep/Oct 25 workshop 
+    location: https://www.twitch.tv/coderefinery
     begin: 2025-09-09 09:00:00
     duration: { minutes: 270 }
     description: |
-      Placeholder for week 1 of the CodeRefinery workshop, note that exact times may still change
+      CodeRefinery workshop: https://coderefinery.github.io/2024-09-10-workshop/
     repeat:
       interval: {days: 3}
       until: 2025-09-11
+  - summary: CodeRefinery Sep/Oct 25 workshop 
+    location: https://www.twitch.tv/coderefinery
+    begin: 2025-09-17 10:00:00
+    duration: { minutes: 180 }
+    description: |
+      CodeRefinery workshop: https://coderefinery.github.io/2024-09-10-workshop/
+    repeat:
+      interval: {weeks: 6}
+      until: 2025-10-22
 
 
 # CR March 25 workshop - sessions
