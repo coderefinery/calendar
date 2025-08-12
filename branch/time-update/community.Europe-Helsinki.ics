@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T030000
+TZNAME:EEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T040000
+TZNAME:EET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Helsinki
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20241217T100000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - Reproducible Research
+UID:509c47c2-9d0c-4885-af04-4d9c85926f3e@509c.org
+DESCRIPTION:CodeRefinery Open House\n\nCome to discuss and work on open 
+ topics related to reproducible research lessons\, i.e. week 2 of the 
+ CodeRefinery workshop. You can also ask us about anything or\ndiscuss new 
+ ideas.\n\nConnection details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250114T100000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - Git masterclass
+UID:48da7cb5-67bf-44b3-a408-e6ee283f1cc7@48da.org
+DESCRIPTION:CodeRefinery Open House\n\nThis discussion is intended to see 
+ what is already out there\, what\nactually "advanced git" means to 
+ different people and what kind of\ntraining and materials are missing and 
+ how we can work together to fill\npotential gaps.\n\nNotes and connection 
+ details:\n  https://hackmd.io/@coderefinery/oh_git_masterclass
+LOCATION:https://hackmd.io/@coderefinery/oh_git_masterclass
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250211T100000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - lesson material updates
+UID:b0833067-3548-48e7-a570-6bc85b736bf5@b083.org
+DESCRIPTION:CodeRefinery Open House\n\nCome to discuss and work on topics 
+ related our workshop lesson materials. \nYou can also ask us about 
+ anything or discuss new ideas.\n\nConnection details: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250305T110000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - workshop co-work
+UID:907eef75-d5bc-4040-aa58-b4b7749bce62@907e.org
+DESCRIPTION:CodeRefinery Open House\n\nCome to discuss and work on topics 
+ related our workshop: lesson materials\, technical details\, contributing.
+  \nYou can also ask us about anything or discuss new ideas.\n\nConnection 
+ details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250317T110000
+DURATION:PT3H
+SUMMARY:CodeRefinery Open House - workshop co-work
+UID:a877797b-08b5-4541-9865-5f672408269f@a877.org
+DESCRIPTION:CodeRefinery Open House\n\nCome to discuss and work on topics 
+ related our workshop: lesson materials\, technical details\, contributing.
+  \nYou can also ask us about anything or discuss new ideas.\n\nConnection 
+ details: https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20241216T150000
+DURATION:PT30M
+SUMMARY:CodeRefinery ambassador call
+UID:02635999-33fd-4c55-831b-77851f883e00@0263.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250103T150000
+DURATION:PT1H
+SUMMARY:CodeRefinery ambassador call
+UID:c01e2048-ba66-40d4-b12f-8b2d04265c8d@c01e.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250310T150000
+DURATION:PT1H
+SUMMARY:CodeRefinery ambassador call
+UID:25e3b431-2e6c-463f-bdb8-31fa393b0c0b@25e3.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250630T150000
+DURATION:PT1H
+SUMMARY:CodeRefinery ambassador call
+UID:9055e6fe-3603-43db-b518-1eed861de245@9055.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20250825T150000
+DURATION:PT1H
+SUMMARY:CodeRefinery ambassador call
+UID:51f516cc-d0fd-424f-a5e3-bdea7f0dc454@51f5.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20251006T150000
+DURATION:PT1H
+SUMMARY:CodeRefinery ambassador call
+UID:b1943687-8f20-405e-a529-877f0e5c272b@b194.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20251117T150000
+DURATION:PT1H
+SUMMARY:CodeRefinery ambassador call
+UID:885934c7-6438-40c0-b5c2-fcf13de2e47d@8859.org
+DESCRIPTION:Details and agenda will appear here just before the meeting: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20250812T183807Z
+END:VEVENT
+END:VCALENDAR
