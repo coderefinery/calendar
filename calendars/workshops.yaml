@@ -7,21 +7,41 @@ timezone: Europe/Stockholm
 events:
 
 # CR Sep/Oct 25 workshop - sessions 
+  - summary: "CodeRefinery workshop (Sep 2025) - Shell crash course"
+    location: https://coderefinery.github.io/2025-09-09-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-09-03 12:00:00
+    duration: {minutes: 30}
+  - summary: "CodeRefinery workshop (Sep 2025) - Installation help"
+    location: https://coderefinery.github.io/2025-09-09-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-09-03 12:30:00
+    duration: {hours: 1}
+  - summary: "CodeRefinery workshop (Sep 2025) - Shell crash course"
+    location: https://coderefinery.github.io/2025-09-09-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-09-08 12:00:00
+    duration: {minutes: 30}
+  - summary: "CodeRefinery workshop (Sep 2025) - Installation help"
+    location: https://coderefinery.github.io/2025-09-09-workshop/
+    timezone: Europe/Stockholm
+    begin: 2025-09-08 12:30:00
+    duration: {hours: 1}
   - summary: CodeRefinery Sep/Oct 25 workshop 
     location: https://www.twitch.tv/coderefinery
-    begin: 2025-09-09 09:00:00
+    begin: 2025-09-09 11:00:00
     duration: { minutes: 270 }
     description: |
-      CodeRefinery workshop: https://coderefinery.github.io/2024-09-10-workshop/
+      CodeRefinery workshop: https://coderefinery.github.io/2025-09-09-workshop/
     repeat:
       interval: {days: 3}
       until: 2025-09-11
   - summary: CodeRefinery Sep/Oct 25 workshop 
     location: https://www.twitch.tv/coderefinery
-    begin: 2025-09-17 10:00:00
+    begin: 2025-09-17 12:00:00
     duration: { minutes: 180 }
     description: |
-      CodeRefinery workshop: https://coderefinery.github.io/2024-09-10-workshop/
+      CodeRefinery workshop: https://coderefinery.github.io/2025-09-09-workshop/
     repeat:
       interval: {weeks: 6}
       until: 2025-10-22
