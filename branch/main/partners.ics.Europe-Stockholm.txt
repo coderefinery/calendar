@@ -1,0 +1,386 @@
+
+
+----------
+Subject:  Scientific Computing Kickstart (+HPC kickstart)
+Start:    Tuesday, 07 June 2022, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://scicomp.aalto.fi/training/scip/kickstart-summer-2022/
+
+Day 1:
+
+  This course is a general introduction to computational
+  researchers. The point is to serve as a guide to your career:
+  a map to the types of resources that are available and skills
+  you may need in your career, so that you can be prepared when
+  you need more in the future. There will also be topics related
+  to using these resources. Aalto University is used in some
+  examples, but all parts are designed to be useful no matter
+  where you are now.
+
+  This course is especially suitable to new researchers or
+  students trying to understand computational/data analysis
+  options available to them. It won’t go into anything too deep,
+  but will provide you with a good background for your next
+  steps: you will know what resources are available and know the
+  next steps to use them.
+
+Day 2-3:
+
+  Scientific Computing Kickstart is a three × half day course
+  for researchers to get started with scientific computing (day
+  1) and high-performance computing (HPC) clusters (day 2). We
+  will take you from being a new user to being competent to run
+  your code at a larger scale than you could before. (However,
+  we don’t cover application-specific matters beyond some
+  Python/R/Matlab basics or focus on the high-performance part:
+  but this is an easy next step after this course).
+
+  This course is good for any researcher who thinks they may
+  need to scale up to larger resources in the next six months,
+  in any field. Even if you don’t use computing clusters, you
+  will be better prepared to understand how computing works on
+  other systems. If you are a student, this is an investment in
+  your skills. By the end of the course you get the hints, ready
+  solutions and copy/paste examples on how to find, run and
+  monitor your applications, and manage your data. In addition
+  to how to optimize your workflow in terms of filesystem
+  traffic, memory usage etc.
+
+
+----------
+Subject:  Scientific Computing Kickstart (+HPC kickstart)
+Start:    Thursday, 09 June 2022, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://scicomp.aalto.fi/training/scip/kickstart-summer-2022/
+
+Day 1:
+
+  This course is a general introduction to computational
+  researchers. The point is to serve as a guide to your career:
+  a map to the types of resources that are available and skills
+  you may need in your career, so that you can be prepared when
+  you need more in the future. There will also be topics related
+  to using these resources. Aalto University is used in some
+  examples, but all parts are designed to be useful no matter
+  where you are now.
+
+  This course is especially suitable to new researchers or
+  students trying to understand computational/data analysis
+  options available to them. It won’t go into anything too deep,
+  but will provide you with a good background for your next
+  steps: you will know what resources are available and know the
+  next steps to use them.
+
+Day 2-3:
+
+  Scientific Computing Kickstart is a three × half day course
+  for researchers to get started with scientific computing (day
+  1) and high-performance computing (HPC) clusters (day 2). We
+  will take you from being a new user to being competent to run
+  your code at a larger scale than you could before. (However,
+  we don’t cover application-specific matters beyond some
+  Python/R/Matlab basics or focus on the high-performance part:
+  but this is an easy next step after this course).
+
+  This course is good for any researcher who thinks they may
+  need to scale up to larger resources in the next six months,
+  in any field. Even if you don’t use computing clusters, you
+  will be better prepared to understand how computing works on
+  other systems. If you are a student, this is an investment in
+  your skills. By the end of the course you get the hints, ready
+  solutions and copy/paste examples on how to find, run and
+  monitor your applications, and manage your data. In addition
+  to how to optimize your workflow in terms of filesystem
+  traffic, memory usage etc.
+
+
+----------
+Subject:  Scientific Computing Kickstart (+HPC kickstart)
+Start:    Friday, 10 June 2022, 11:00 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://scicomp.aalto.fi/training/scip/kickstart-summer-2022/
+
+Day 1:
+
+  This course is a general introduction to computational
+  researchers. The point is to serve as a guide to your career:
+  a map to the types of resources that are available and skills
+  you may need in your career, so that you can be prepared when
+  you need more in the future. There will also be topics related
+  to using these resources. Aalto University is used in some
+  examples, but all parts are designed to be useful no matter
+  where you are now.
+
+  This course is especially suitable to new researchers or
+  students trying to understand computational/data analysis
+  options available to them. It won’t go into anything too deep,
+  but will provide you with a good background for your next
+  steps: you will know what resources are available and know the
+  next steps to use them.
+
+Day 2-3:
+
+  Scientific Computing Kickstart is a three × half day course
+  for researchers to get started with scientific computing (day
+  1) and high-performance computing (HPC) clusters (day 2). We
+  will take you from being a new user to being competent to run
+  your code at a larger scale than you could before. (However,
+  we don’t cover application-specific matters beyond some
+  Python/R/Matlab basics or focus on the high-performance part:
+  but this is an easy next step after this course).
+
+  This course is good for any researcher who thinks they may
+  need to scale up to larger resources in the next six months,
+  in any field. Even if you don’t use computing clusters, you
+  will be better prepared to understand how computing works on
+  other systems. If you are a student, this is an investment in
+  your skills. By the end of the course you get the hints, ready
+  solutions and copy/paste examples on how to find, run and
+  monitor your applications, and manage your data. In addition
+  to how to optimize your workflow in terms of filesystem
+  traffic, memory usage etc.
+
+
+----------
+Subject: Software design for scientific computing
+Start:   Monday, 25 April 2022, 11:00 CEST
+Description:
+
+More info at: https://scicomp.aalto.fi/training/scip/software-design-2022/
+
+
+----------
+Subject: Software design for scientific computing
+Start:   Tuesday, 03 May 2022, 09:00 CEST
+Description:
+
+More info at: https://scicomp.aalto.fi/training/scip/software-design-2022/
+
+
+----------
+Subject: Software design for scientific computing
+Start:   Monday, 09 May 2022, 09:00 CEST
+Description:
+
+More info at: https://scicomp.aalto.fi/training/scip/software-design-2022/
+
+
+----------
+Subject: Hands-on Data Anonymization
+Start:   Monday, 04 April 2022, 11:00 CEST
+Description:
+
+Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
+
+
+----------
+Subject: Hands-on Data Anonymization
+Start:   Wednesday, 06 April 2022, 11:00 CEST
+Description:
+
+Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Wednesday, 20 April 2022, 11:00 CEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Thursday, 21 April 2022, 11:00 CEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Friday, 22 April 2022, 11:00 CEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Monday, 25 April 2022, 11:00 CEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Debugging with Python, Matlab, C/C++, Julia, and R
+Start:   Tuesday, 26 April 2022, 11:00 CEST
+Description:
+
+Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
+https://scicomp.aalto.fi/training/scip/debugging-2022/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Tuesday, 22 March 2022, 09:00 CET
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Wednesday, 23 March 2022, 09:00 CET
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Thursday, 24 March 2022, 09:00 CET
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Tuesday, 29 March 2022, 09:00 CEST
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Wednesday, 30 March 2022, 09:00 CEST
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Code Refinery Workshop
+Start:   Thursday, 31 March 2022, 09:00 CEST
+Description:
+
+https://coderefinery.org/workshops/upcoming/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Monday, 21 March 2022, 11:00 CET
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Friday, 25 March 2022, 11:00 CET
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Monday, 28 March 2022, 11:00 CEST
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject: Linux Shell Scripting
+Start:   Friday, 01 April 2022, 11:00 CEST
+Description:
+
+Did you know that SLURM batch script is a regular BASH shell script mostly? Did you know that when you login to Triton (our computer cluster) your terminal is a fully enabled shell scripting environment? Do you want to know how to create an alias, a function, how to use loops and traps in a shell, work with variables and arrays? This course is oriented on those who want to start using BASH programming fully and use terminal efficiently.
+We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
+https://scicomp.aalto.fi/training/scip/shell-scripting/
+
+
+----------
+Subject:  MPI introduction
+Start:    Tuesday, 08 March 2022, 09:00 CET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  MPI introduction
+Start:    Friday, 11 March 2022, 09:00 CET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  MPI introduction
+Start:    Tuesday, 15 March 2022, 09:00 CET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  MPI introduction
+Start:    Friday, 18 March 2022, 09:00 CET
+Location: Online, register for connection details
+Description:
+
+In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+will build up towards more advanced and realistic examples commonly found in computational physics and
+chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+with hybrid parallel programming.
+https://scicomp.aalto.fi/training/scip/mpi-introduction/
+
+
+----------
+Subject:  Introduction to PDC Systems Course
+Start:    Monday, 06 October 2025, 09:00 CEST
+End:      Tuesday, 07 October 2025, 12:00 CEST
+Location: Online via Zoom (Link will be sent to people who register.)
+Description:
+
+If you would like to use the Dardel system at PDC, this course is suitable for beginners to high-performance computing (HPC) and for people with HPC experience who want to learn about using Dardel., https://www.pdc.kth.se/about/events/introduction-to-pdc-systems-course-1.1410466
