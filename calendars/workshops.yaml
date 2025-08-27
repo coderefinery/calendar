@@ -34,7 +34,7 @@ events:
     description: |
       CodeRefinery workshop: https://coderefinery.github.io/2025-09-09-workshop/
     repeat:
-      interval: {days: 3}
+      interval: {days: 1}
       until: 2025-09-11
   - summary: CodeRefinery Sep/Oct 25 workshop 
     location: https://www.twitch.tv/coderefinery
@@ -43,7 +43,7 @@ events:
     description: |
       CodeRefinery workshop: https://coderefinery.github.io/2025-09-09-workshop/
     repeat:
-      interval: {weeks: 6}
+      interval: {weeks: 1}
       until: 2025-10-22
 
 
