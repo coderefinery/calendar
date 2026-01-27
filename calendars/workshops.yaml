@@ -6,6 +6,42 @@ timezone: Europe/Stockholm
 
 events:
 
+# CR March 26 workshop - sessions
+  - summary: "CodeRefinery workshop (Mar 2026) - Shell crash course"
+    location: https://coderefinery.github.io/2026-03-17-workshop/
+    timezone: Europe/Stockholm
+    begin: 2026-03-11 12:00:00
+    duration: {minutes: 30}
+  - summary: "CodeRefinery workshop (Mar 2026) - Installation help"
+    location: https://coderefinery.github.io/2026-03-17-workshop/
+    timezone: Europe/Stockholm
+    begin: 2026-03-11 12:30:00
+    duration: {hours: 1, minutes: 30}
+  - summary: "CodeRefinery workshop (Mar 2026) - Shell crash course"
+    location: https://coderefinery.github.io/2026-03-17-workshop/
+    timezone: Europe/Stockholm
+    begin: 2026-03-16 12:00:00
+  - summary: "CodeRefinery workshop (Mar 2026) - Installation help"
+    location: https://coderefinery.github.io/2026-03-17-workshop/
+    timezone: Europe/Stockholm
+    begin: 2026-03-16 12:30:00
+    duration: {hours: 1, minutes: 30}
+  - &cr-2026-mar
+    summary: "CodeRefinery workshop (March 2026) - lessons"
+    location: https://coderefinery.github.io/2026-03-17-workshop/
+    timezone: Europe/Stockholm
+    begin: 2026-03-17 10:00:00
+    duration: {hours: 5}
+    repeat:
+      interval: {days: 1}
+      until: 2026-03-19 15:00:00
+  - <<: *cr-2026-mar
+    begin: 2026-03-24 10:00:00
+    repeat:
+      interval: {days: 1}
+      until: 2026-03-26 15:00:00
+
+
 # CR Sep/Oct 25 workshop - sessions 
   - summary: "CodeRefinery workshop (Sep 2025) - Shell crash course"
     location: https://coderefinery.github.io/2025-09-09-workshop/
