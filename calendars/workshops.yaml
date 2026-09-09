@@ -10,12 +10,12 @@ events:
   - summary: "CodeRefinery workshop (Sep 2026) - Shell crash course"
     location: https://coderefinery.github.io/2026-09-22-workshop/
     timezone: Europe/Stockholm
-    begin: 2026-09-16 09:00:00
+    begin: 2026-09-16 12:00:00
     duration: {minutes: 30}
   - summary: "CodeRefinery workshop (Sep 2026) - Installation help"
     location: https://coderefinery.github.io/2026-09-22-workshop/
     timezone: Europe/Stockholm
-    begin: 2026-09-16 09:30:00
+    begin: 2026-09-16 12:30:00
     duration: {hours: 1, minutes: 30}
   - summary: "CodeRefinery workshop (Sep 2026) - Shell crash course"
     location: https://coderefinery.github.io/2026-09-22-workshop/
