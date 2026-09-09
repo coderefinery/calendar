@@ -1,0 +1,136 @@
+
+
+----------
+Subject:  CodeRefinery Open House - Reproducible Research
+Start:    Tuesday, 17 December 2024, 10:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery Open House
+
+Come to discuss and work on open topics related to reproducible research lessons, i.e. week 2 of the CodeRefinery workshop. You can also ask us about anything or
+discuss new ideas.
+
+Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery Open House - Git masterclass
+Start:    Tuesday, 14 January 2025, 10:00 EET
+Location: https://hackmd.io/@coderefinery/oh_git_masterclass
+Description:
+
+CodeRefinery Open House
+
+This discussion is intended to see what is already out there, what
+actually "advanced git" means to different people and what kind of
+training and materials are missing and how we can work together to fill
+potential gaps.
+
+Notes and connection details:
+  https://hackmd.io/@coderefinery/oh_git_masterclass
+
+
+----------
+Subject:  CodeRefinery Open House - lesson material updates
+Start:    Tuesday, 11 February 2025, 10:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery Open House
+
+Come to discuss and work on topics related our workshop lesson materials. 
+You can also ask us about anything or discuss new ideas.
+
+Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery Open House - workshop co-work
+Start:    Wednesday, 05 March 2025, 11:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery Open House
+
+Come to discuss and work on topics related our workshop: lesson materials, technical details, contributing. 
+You can also ask us about anything or discuss new ideas.
+
+Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery Open House - workshop co-work
+Start:    Monday, 17 March 2025, 11:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+CodeRefinery Open House
+
+Come to discuss and work on topics related our workshop: lesson materials, technical details, contributing. 
+You can also ask us about anything or discuss new ideas.
+
+Connection details: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery ambassador call
+Start:    Monday, 16 December 2024, 15:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery ambassador call
+Start:    Friday, 03 January 2025, 15:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery ambassador call
+Start:    Monday, 10 March 2025, 15:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery ambassador call
+Start:    Monday, 30 June 2025, 15:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery ambassador call
+Start:    Monday, 25 August 2025, 15:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery ambassador call
+Start:    Monday, 06 October 2025, 15:00 EEST
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
+
+
+----------
+Subject:  CodeRefinery ambassador call
+Start:    Monday, 17 November 2025, 15:00 EET
+Location: https://hackmd.io/@coderefinery/team-meeting
+Description:
+
+Details and agenda will appear here just before the meeting: https://hackmd.io/@coderefinery/team-meeting
